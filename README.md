@@ -1,6 +1,6 @@
 # Global Warming on Salmon Run Populations
 
-> Determine if the number of salmon in yearly salmon runs are impacted by increasing water temperatures in freshwater spawning rivers. 
+> Determine if the number of salmon in yearly salmon runs are impacted by changing water temperatures in freshwater spawning rivers. 
 
 ---
 
