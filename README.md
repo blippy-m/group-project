@@ -9,7 +9,7 @@
 Focusing on the Yukon River Basin in Canada. 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Determine if there is a correlation between increased upriver freshwater temperatures and salmon run populations
+- **Objective:** Determine if there is a correlation between upriver freshwater temperatures, flow discharge, water level, and salmon run populations
 - **Domain:** Nature and Global warming
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
