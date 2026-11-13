@@ -71,6 +71,7 @@ Include a short discussion of the findings and what they imply.
 
 - Jacqueline Muse https://github.com/blippy-m
 - Shweta Bodhankar
+- with initial contributions from Nina Fossen https://github.com/Ninofo
 
 ---
 
