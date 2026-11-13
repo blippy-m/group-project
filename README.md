@@ -32,7 +32,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 - **Source:**  Pacific Salmon Commission at www.psc.org
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:**  Pacific Salmon Commission (PSC) www.psc.org (retrieved Oct 2026)
-- **Link:** https://psc1.shinyapps.io/salmon-run-size-app/
+- **Link:** [https://psc1.shinyapps.io/salmon-run-size-app/](https://salmonexplorer.ca/explore/data/overview/all-regions/all-species/all-cus/)
   
 
 ## Yukon Watershed Temperatures Data
