@@ -52,6 +52,15 @@ Provide a short and concise overview of the project. Mention the problem it solv
 - **Description:** Information of when salmon and Steelhead usually enter freshwater to spawn. Gives a relative proportion and estimated percentage.
 - **License:** "Pacific Salmon Foundation" (retrieved Nov 2026)
 - **Link:** https://salmonexplorer.ca/explore/data/run-timing/all-regions/all-species/all-cus/
+
+
+## Habitat Threats Data
+
+- **Title:** dataset556_cu_habitat_threats.csv
+- **Source:** Pacific Salmon Foundation's Salmon Data Library via the Pacific Salmon Explorer
+- **Description:** Cumulative habitat pressures/threats including: forest harvest, fire, insect damage, agriculture, urban & industrial development, roads, and mines.
+- **License:** "Pacific Salmon Foundation" (retrieved Nov 2026)
+- **Link:** https://salmonexplorer.ca/explore/data/cumulative-pressures/all-regions/all-species/all-cus/
 ---
 
 ## Analysis
