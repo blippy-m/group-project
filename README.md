@@ -1,15 +1,15 @@
-# Global Warming on Salmon Run Populations
+# Environmental Effects on Salmon Run Populations
 
-> Determine if the number of salmon in yearly salmon runs are impacted by changing water temperatures in freshwater spawning rivers. 
+> Determine to what degree the number of salmon in yearly salmon runs are impacted by changing water temperatures and human-driven environmental changes in and near freshwater spawning rivers. 
 
 ---
 
 ## Project Overview
 
-Focusing on the Yukon River Basin in Canada. 
+Using data regarding the western coast of Canada, accessed from the Pacific Salmon Foundation's Salmon Data Library. 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Determine if there is a correlation between upriver freshwater temperatures, flow discharge, water level, and salmon run populations
+- **Objective:** Determine if there is a correlation between upriver freshwater temperatures, flow discharge, logging, fire, insect damage, agricultural development, urban and industrial development, mining, roads, and salmon run populations
 - **Domain:** Nature and Global warming
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
@@ -27,28 +27,31 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ---
 
-## Salmon Population Data
+## Salmon Spawner Survey Data
 
-- **Source:**  Pacific Salmon Commission at www.psc.org
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:**  Pacific Salmon Commission (PSC) www.psc.org (retrieved Oct 2026)
-- **Link:** [[https://psc1.shinyapps.io/salmon-run-size-app/](https://salmonexplorer.ca/explore/data/overview/all-regions/all-species/all-cus/)](https://salmonexplorer.ca/explore/data/overview/all-regions/all-species/all-cus/)
+- **Title:** dataset2_spawner_surveys.zip
+- **Source:**  Pacific Salmon Foundation's Salmon Data Library via the Pacific Salmon Explorer
+- **Description:** Number of spawners observed in freshwater streams. Measures all five salmon species (Chinook, Coho, Chum, Pink, Sockeye) and Steelhead. 
+- **License:**  "Pacific Salmon Foundation" (retrieved Oct 2026)
+- **Link:** (https://salmonexplorer.ca/explore/data/overview/all-regions/all-species/all-cus/)
   
 
-## Yukon Watershed Temperatures Data
+## Stream Temperatures Data
 
-- **Source:** Yukon River Panel 
-- **Description:** includes water temperatures of multiple rivers within the Yukon River Basin in Canada.
-- **License:** "Pacific Salmon Foundation (retrieved Oct 2026)
-- **Link:** https://data.salmonwatersheds.ca/result?datasetid=555
+- **Title:** se_streamtemp_stations.csv
+- **Source:**  Pacific Salmon Foundation's Salmon Data Library via the Pacific Salmon Explorer
+- **Description:** Brief overview of the dataset features, size, and format
+- **License:** "Pacific Salmon Foundation" (retrieved Nov 2026)
+- **Link:** https://salmonexplorer.ca/explore/data/stream-temperature/all-regions/all-species/all-cus/
 
 
-## Yukon River Flow and Leval Data
+## Run Timing Data
 
-- **Source:** Government of Canada
-- **Description:** Yukon River flow and level measured at Whitehorse from 1902 to 2024 (incomplete)
-- **License:** 
-- **Link:** https://wateroffice.ec.gc.ca/report/data_availability_e.html?type=historical&station=09AB001&parameter_type=Flow+and+Level
+- **Title:** dataset90_run_timing.csv
+- **Source:** Pacific Salmon Foundation's Salmon Data Library via the Pacific Salmon Explorer
+- **Description:** Information of when salmon and Steelhead usually enter freshwater to spawn. Gives a relative proportion and estimated percentage.
+- **License:** "Pacific Salmon Foundation" (retrieved Nov 2026)
+- **Link:** https://salmonexplorer.ca/explore/data/run-timing/all-regions/all-species/all-cus/
 ---
 
 ## Analysis
@@ -70,7 +73,7 @@ Include a short discussion of the findings and what they imply.
 ## Authors
 
 - Jacqueline Muse https://github.com/blippy-m
-- Shweta Bodhankar
+- Shweta Bodhankar https://github.com/shwetabodhankar
 - with initial contributions from Nina Fossen https://github.com/Ninofo
 
 ---
