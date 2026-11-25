@@ -67,6 +67,14 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
 
+### Running the updated data-processing notebook locally
+
+Open [code/new_data.ipynb](code/new_data.ipynb) and select a Python kernel with the dependencies in [requirements.txt](requirements.txt). Start the kernel from the repository root or the `code` folder, then run the cells in order.
+
+Data paths are resolved from the repository's `data` folder. The spawner CSV is read directly from `dataset2_spawner_surveys.zip`, so no extraction or personal file-path substitutions are needed. The optional station DBF conversion is shown as documentation because the converted CSV is already included.
+
+The export cells write `data/spawners_clean.csv` and overwrite `data/region_stats.csv`. This notebook preserves the existing processing and regional summaries; it does not yet implement the proposed conservation-unit analysis.
+
 data_prep.ipynb was created and used first in order to process and produce our clean salmon/temp dataframe (water_salmon_clean.csv)
 
 analysis_1.ipynb was created and run second in order to perform initial visualizations and models using our clean salmon/temp data (water_salmon_clean.csv)
