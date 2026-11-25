@@ -1,6 +1,6 @@
 # Environmental Effects on Salmon Run Populations
 
-> Determine to what degree the number of salmon in yearly salmon runs are impacted by changing water temperatures and human-driven environmental changes in and near freshwater spawning rivers. 
+> Are freshwater habitat pressures associated with differences in observed salmon abundance trends and fluctuations across regions?
 
 ---
 
@@ -9,7 +9,7 @@
 Using data regarding the western coast of Canada, accessed from the Pacific Salmon Foundation's Salmon Data Library. 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Determine if there is a correlation between upriver freshwater temperatures, flow discharge, logging, fire, insect damage, agricultural development, urban and industrial development, mining, roads, and salmon run populations
+- **Objective:** Examine associations between cumulative freshwater habitat pressures and observed spawner-count trends and variability, comparing conservation units within regions while accounting for species. Temperature and flow are not included in this analysis.
 - **Domain:** Nature and Global warming
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
@@ -101,6 +101,36 @@ Run focused summary tests from the repository root with:
 python -m unittest discover -s code -p test_cu_summaries.py
 ```
 
+### Habitat-pressure analysis and visualization reports
+
+The final section of [code/new_data.ipynb](code/new_data.ipynb) calls [code/habitat_analysis.py](code/habitat_analysis.py) to create PNG charts and CSV tables in `reports`. Use a Python environment with the dependencies in [requirements.txt](requirements.txt). After the CU-summary exports exist, regenerate these reports independently with:
+
+```powershell
+python code\habitat_analysis.py
+```
+
+All 124 complete-panel CUs match habitat data. Four have a nonzero data-deficient habitat percentage; they are retained with explicit exclusion statuses in [reports/cu_habitat_analysis_2015_2024.csv](reports/cu_habitat_analysis_2015_2024.csv). The primary sample contains **120 fully assessed CUs**. No missing habitat values are interpreted as zero pressure.
+
+The primary predictor is the percentage of CU spawning habitat under moderate/high **cumulative** threat. Pressure-specific causal effects are not estimated. Outcomes are the annual observed-count slope divided by mean annual count (%/year), and the coefficient of variation (SD/mean).
+
+Unweighted descriptive OLS compares `outcome ~ species + region` with the same model plus cumulative pressure, scaled per 10 percentage points. Both models use the same CUs. Coefficients and additional in-sample R-squared are exported, without significance tests or confidence intervals: independence/spatial dependence has not been established, and this is not validated prediction. Regional/species medians summarize individual CUs, not pooled regional populations.
+
+PNG figures show:
+
+- Annual survey coverage and the selected window.
+- Regional representation and analysis exclusions.
+- CU trends and variability within regions, colored by species.
+- Habitat pressure versus each outcome, separated by species and colored by region.
+- Adjusted pressure/outcome residuals after accounting for species and region.
+
+CSV tables include the complete merge with exclusion statuses, regional coverage, region/species descriptive summaries, model results and coefficients, adjusted CU observations, and [reports/habitat_analysis_methods_2015_2024.csv](reports/habitat_analysis_methods_2015_2024.csv) documenting definitions and limitations. Some region/species groups are very small; selection, varying survey quality/effort, shared habitats, and habitat snapshots from different years limit interpretation. Pink salmon remain excluded by the complete-panel rule.
+
+Run all directly related tests with:
+
+```powershell
+python -m unittest discover -s code -p "test_*.py"
+```
+
 data_prep.ipynb was created and used first in order to process and produce our clean salmon/temp dataframe (water_salmon_clean.csv)
 
 analysis_1.ipynb was created and run second in order to perform initial visualizations and models using our clean salmon/temp data (water_salmon_clean.csv)
@@ -109,7 +139,9 @@ analysis_1.ipynb was created and run second in order to perform initial visualiz
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
+For the 120 fully assessed fixed-panel CUs, adding cumulative habitat pressure to the species/region baseline increases in-sample R-squared from 0.3355 to 0.3409 for normalized abundance trends, and from 0.2693 to 0.2724 for variability. These are small absolute improvements (approximately 0.54 and 0.31 percentage points). They do not establish environmental causation, statistical significance, or out-of-sample prediction.
+
+See [reports/habitat_model_results_2015_2024.csv](reports/habitat_model_results_2015_2024.csv) for coefficients and model comparisons, and [reports/adjusted_habitat_associations_2015_2024.png](reports/adjusted_habitat_associations_2015_2024.png) for the adjusted descriptive relationships.
 
 ---
 

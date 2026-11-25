@@ -1,0 +1,11 @@
+region,all_cus,recently_observed_cus,complete_panel_cus,primary_analysis_cus,no_recent_observations_cus,no_complete_panel_cus,other_analysis_exclusions_cus
+Central Coast,114,63,14,14,51,49,0
+Columbia,3,2,1,1,1,1,0
+East Vancouver Island & Mainland Inlets,49,45,21,21,4,24,0
+Fraser,61,53,45,45,8,8,0
+Haida Gwaii,28,20,6,6,8,14,0
+Nass,22,16,1,1,6,15,0
+Northern Transboundary,25,23,16,12,2,7,4
+Skeena,57,46,5,5,11,41,0
+West Vancouver Island,38,30,13,13,8,17,0
+Yukon,16,10,2,2,6,8,0

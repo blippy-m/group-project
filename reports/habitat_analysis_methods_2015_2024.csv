@@ -1,0 +1,21 @@
+item,description
+research_question,Are freshwater habitat pressures associated with differences in observed salmon abundance trends and fluctuations across regions?
+time_window,2015-2024
+unit_of_analysis,One conservation unit; regional figures show individual CUs
+primary_pressure,Percentage of CU spawning habitat under moderate/high cumulative threat
+primary_eligibility,"Complete stream panel, matched habitat, zero data-deficient area, finite outcomes"
+merged_cus,413
+primary_cus,120
+coverage_status_counts,"{'no_complete_stream_panel': 184, 'eligible': 120, 'no_observations_in_window': 105, 'data_deficient_habitat': 4}"
+outcomes,Linear trend divided by mean count (%/year); sample SD divided by mean count
+baseline_model,Outcome ~ categorical species + categorical region
+pressure_model,Baseline + cumulative moderate/high pressure per 10 percentage points
+model_weighting,"One CU, one observation; unweighted OLS"
+r_squared,In-sample only; additional R-squared is full minus baseline R-squared
+inference,No p-values or confidence intervals; independence and spatial dependence are not established
+pink_salmon,No eligible Pink CUs under the all-years panel rule
+survey_limitations,"Fixed streams do not ensure fixed methods, quality, effort, or total CU coverage"
+habitat_limitations,Pressure snapshots have differing reference years; not historical environmental time series
+selection_limitations,"Eligible CUs are not representative of all CUs, species, or regions; some groups are very small"
+interpretation,Exploratory association; not causal attribution or validated prediction
+regeneration,"python code\habitat_analysis.py, after producing the CU-summary CSVs"
