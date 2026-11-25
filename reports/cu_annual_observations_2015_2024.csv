@@ -1,0 +1,2318 @@
+cuid,year,observed_streams,panel_streams,panel_observed_count,region,species_name,cu_name_pse
+171,2015,2,0,,Skeena,Sockeye,Alastair
+171,2016,2,0,,Skeena,Sockeye,Alastair
+171,2017,2,0,,Skeena,Sockeye,Alastair
+171,2018,2,0,,Skeena,Sockeye,Alastair
+171,2019,2,0,,Skeena,Sockeye,Alastair
+171,2020,1,0,,Skeena,Sockeye,Alastair
+171,2021,2,0,,Skeena,Sockeye,Alastair
+171,2022,2,0,,Skeena,Sockeye,Alastair
+171,2023,2,0,,Skeena,Sockeye,Alastair
+171,2024,2,0,,Skeena,Sockeye,Alastair
+174,2018,1,0,,Skeena,Sockeye,Ecstall/Lower
+174,2024,1,0,,Skeena,Sockeye,Ecstall/Lower
+175,2018,1,0,,Skeena,Sockeye,Johnston
+175,2021,1,0,,Skeena,Sockeye,Johnston
+175,2023,1,0,,Skeena,Sockeye,Johnston
+176,2015,1,0,,Skeena,Sockeye,Kitsumkalum
+176,2016,1,0,,Skeena,Sockeye,Kitsumkalum
+176,2017,1,0,,Skeena,Sockeye,Kitsumkalum
+176,2018,2,0,,Skeena,Sockeye,Kitsumkalum
+176,2020,1,0,,Skeena,Sockeye,Kitsumkalum
+176,2021,1,0,,Skeena,Sockeye,Kitsumkalum
+176,2022,2,0,,Skeena,Sockeye,Kitsumkalum
+176,2023,2,0,,Skeena,Sockeye,Kitsumkalum
+176,2024,1,0,,Skeena,Sockeye,Kitsumkalum
+177,2015,1,0,,Skeena,Sockeye,Lakelse
+177,2016,2,0,,Skeena,Sockeye,Lakelse
+177,2017,1,0,,Skeena,Sockeye,Lakelse
+177,2018,3,0,,Skeena,Sockeye,Lakelse
+177,2019,3,0,,Skeena,Sockeye,Lakelse
+177,2020,1,0,,Skeena,Sockeye,Lakelse
+177,2021,1,0,,Skeena,Sockeye,Lakelse
+177,2022,1,0,,Skeena,Sockeye,Lakelse
+177,2023,2,0,,Skeena,Sockeye,Lakelse
+177,2024,2,0,,Skeena,Sockeye,Lakelse
+178,2015,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+178,2017,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+178,2018,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+178,2019,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+178,2020,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+178,2021,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+178,2022,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+178,2023,1,0,,Skeena,Sockeye,Mcdonell/Dennis/Aldrich
+180,2015,11,1,1510.0,Skeena,Sockeye,Babine/Onerka
+180,2016,13,1,1317.0,Skeena,Sockeye,Babine/Onerka
+180,2017,11,1,538.0,Skeena,Sockeye,Babine/Onerka
+180,2018,8,1,100.0,Skeena,Sockeye,Babine/Onerka
+180,2019,11,1,190.0,Skeena,Sockeye,Babine/Onerka
+180,2020,7,1,123.0,Skeena,Sockeye,Babine/Onerka
+180,2021,5,1,661.0,Skeena,Sockeye,Babine/Onerka
+180,2022,8,1,55.0,Skeena,Sockeye,Babine/Onerka
+180,2023,6,1,284.0,Skeena,Sockeye,Babine/Onerka
+180,2024,9,1,227.0,Skeena,Sockeye,Babine/Onerka
+183,2015,1,0,,Skeena,Sockeye,Gitanyow (Kitwanga/Kitwancool)
+183,2016,1,0,,Skeena,Sockeye,Gitanyow (Kitwanga/Kitwancool)
+183,2017,1,0,,Skeena,Sockeye,Gitanyow (Kitwanga/Kitwancool)
+183,2018,1,0,,Skeena,Sockeye,Gitanyow (Kitwanga/Kitwancool)
+183,2019,1,0,,Skeena,Sockeye,Gitanyow (Kitwanga/Kitwancool)
+183,2020,1,0,,Skeena,Sockeye,Gitanyow (Kitwanga/Kitwancool)
+183,2022,1,0,,Skeena,Sockeye,Gitanyow (Kitwanga/Kitwancool)
+185,2015,1,0,,Skeena,Sockeye,Morice/Atna
+185,2016,1,0,,Skeena,Sockeye,Morice/Atna
+185,2017,2,0,,Skeena,Sockeye,Morice/Atna
+185,2018,1,0,,Skeena,Sockeye,Morice/Atna
+185,2019,1,0,,Skeena,Sockeye,Morice/Atna
+185,2020,2,0,,Skeena,Sockeye,Morice/Atna
+185,2021,1,0,,Skeena,Sockeye,Morice/Atna
+185,2022,1,0,,Skeena,Sockeye,Morice/Atna
+185,2024,1,0,,Skeena,Sockeye,Morice/Atna
+186,2015,2,0,,Skeena,Sockeye,Nilkitkwa
+186,2016,2,0,,Skeena,Sockeye,Nilkitkwa
+186,2017,3,0,,Skeena,Sockeye,Nilkitkwa
+186,2018,2,0,,Skeena,Sockeye,Nilkitkwa
+186,2019,2,0,,Skeena,Sockeye,Nilkitkwa
+186,2020,2,0,,Skeena,Sockeye,Nilkitkwa
+186,2021,4,0,,Skeena,Sockeye,Nilkitkwa
+186,2022,3,0,,Skeena,Sockeye,Nilkitkwa
+186,2024,4,0,,Skeena,Sockeye,Nilkitkwa
+187,2015,4,1,6563.0,Skeena,Sockeye,Stephens
+187,2016,3,1,5762.0,Skeena,Sockeye,Stephens
+187,2017,3,1,2834.0,Skeena,Sockeye,Stephens
+187,2018,1,1,1969.0,Skeena,Sockeye,Stephens
+187,2019,4,1,1469.0,Skeena,Sockeye,Stephens
+187,2020,4,1,3383.0,Skeena,Sockeye,Stephens
+187,2021,3,1,2428.0,Skeena,Sockeye,Stephens
+187,2022,3,1,2111.0,Skeena,Sockeye,Stephens
+187,2023,6,1,3471.0,Skeena,Sockeye,Stephens
+187,2024,6,1,6046.0,Skeena,Sockeye,Stephens
+189,2015,3,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2016,3,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2017,2,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2018,2,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2019,2,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2020,2,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2021,2,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2022,2,0,,Skeena,Sockeye,Tahlo/Morrison
+189,2024,2,0,,Skeena,Sockeye,Tahlo/Morrison
+190,2015,1,0,,Skeena,Sockeye,Asitika
+190,2017,1,0,,Skeena,Sockeye,Asitika
+190,2018,1,0,,Skeena,Sockeye,Asitika
+190,2019,1,0,,Skeena,Sockeye,Asitika
+190,2020,1,0,,Skeena,Sockeye,Asitika
+190,2021,1,0,,Skeena,Sockeye,Asitika
+190,2022,1,0,,Skeena,Sockeye,Asitika
+190,2024,1,0,,Skeena,Sockeye,Asitika
+191,2017,1,0,,Skeena,Sockeye,Azuklotz
+191,2018,1,0,,Skeena,Sockeye,Azuklotz
+191,2019,1,0,,Skeena,Sockeye,Azuklotz
+191,2020,1,0,,Skeena,Sockeye,Azuklotz
+191,2021,1,0,,Skeena,Sockeye,Azuklotz
+191,2022,1,0,,Skeena,Sockeye,Azuklotz
+191,2024,1,0,,Skeena,Sockeye,Azuklotz
+192,2020,2,0,,Skeena,Sockeye,Bear
+192,2021,2,0,,Skeena,Sockeye,Bear
+192,2023,1,0,,Skeena,Sockeye,Bear
+192,2024,3,0,,Skeena,Sockeye,Bear
+193,2015,1,0,,Skeena,Sockeye,Damshilgwit
+193,2016,1,0,,Skeena,Sockeye,Damshilgwit
+193,2017,1,0,,Skeena,Sockeye,Damshilgwit
+193,2018,1,0,,Skeena,Sockeye,Damshilgwit
+193,2020,1,0,,Skeena,Sockeye,Damshilgwit
+193,2022,1,0,,Skeena,Sockeye,Damshilgwit
+193,2023,1,0,,Skeena,Sockeye,Damshilgwit
+197,2017,1,0,,Skeena,Sockeye,Motase
+197,2018,1,0,,Skeena,Sockeye,Motase
+197,2019,1,0,,Skeena,Sockeye,Motase
+197,2021,1,0,,Skeena,Sockeye,Motase
+197,2022,1,0,,Skeena,Sockeye,Motase
+197,2024,1,0,,Skeena,Sockeye,Motase
+199,2018,1,0,,Skeena,Sockeye,Slamgeesh
+201,2016,1,0,,Skeena,Sockeye,Sustut
+202,2015,6,2,1400.0,Skeena,Coho,Lower Skeena
+202,2016,8,2,3300.0,Skeena,Coho,Lower Skeena
+202,2017,9,2,2255.0,Skeena,Coho,Lower Skeena
+202,2018,10,2,1220.0,Skeena,Coho,Lower Skeena
+202,2019,7,2,695.0,Skeena,Coho,Lower Skeena
+202,2020,9,2,1775.0,Skeena,Coho,Lower Skeena
+202,2021,14,2,2205.0,Skeena,Coho,Lower Skeena
+202,2022,7,2,3300.0,Skeena,Coho,Lower Skeena
+202,2023,8,2,9500.0,Skeena,Coho,Lower Skeena
+202,2024,6,2,2800.0,Skeena,Coho,Lower Skeena
+203,2015,2,0,,Skeena,Sockeye,Babine (enhanced)
+203,2018,2,0,,Skeena,Sockeye,Babine (enhanced)
+203,2019,2,0,,Skeena,Sockeye,Babine (enhanced)
+205,2017,1,0,,Skeena,Chinook,Ecstall
+205,2018,1,0,,Skeena,Chinook,Ecstall
+205,2019,1,0,,Skeena,Chinook,Ecstall
+205,2020,2,0,,Skeena,Chinook,Ecstall
+205,2021,1,0,,Skeena,Chinook,Ecstall
+205,2024,1,0,,Skeena,Chinook,Ecstall
+207,2015,2,0,,Skeena,Chinook,Kalum-Late
+207,2016,1,0,,Skeena,Chinook,Kalum-Late
+207,2017,1,0,,Skeena,Chinook,Kalum-Late
+207,2018,1,0,,Skeena,Chinook,Kalum-Late
+207,2019,1,0,,Skeena,Chinook,Kalum-Late
+209,2015,2,0,,Skeena,Pink,Lower Skeena River (odd)
+209,2017,4,0,,Skeena,Pink,Lower Skeena River (odd)
+209,2019,8,0,,Skeena,Pink,Lower Skeena River (odd)
+209,2021,10,0,,Skeena,Pink,Lower Skeena River (odd)
+209,2023,7,0,,Skeena,Pink,Lower Skeena River (odd)
+210,2016,1,0,,Skeena,Chinook,Lower Skeena
+210,2017,1,0,,Skeena,Chinook,Lower Skeena
+210,2019,2,0,,Skeena,Chinook,Lower Skeena
+210,2020,2,0,,Skeena,Chinook,Lower Skeena
+210,2021,3,0,,Skeena,Chinook,Lower Skeena
+210,2022,1,0,,Skeena,Chinook,Lower Skeena
+210,2023,3,0,,Skeena,Chinook,Lower Skeena
+210,2024,3,0,,Skeena,Chinook,Lower Skeena
+211,2015,2,0,,Skeena,Chum,Lower Skeena
+211,2016,3,0,,Skeena,Chum,Lower Skeena
+211,2017,2,0,,Skeena,Chum,Lower Skeena
+211,2018,3,0,,Skeena,Chum,Lower Skeena
+211,2019,6,0,,Skeena,Chum,Lower Skeena
+211,2020,4,0,,Skeena,Chum,Lower Skeena
+211,2021,4,0,,Skeena,Chum,Lower Skeena
+211,2022,3,0,,Skeena,Chum,Lower Skeena
+211,2023,2,0,,Skeena,Chum,Lower Skeena
+211,2024,5,0,,Skeena,Chum,Lower Skeena
+212,2016,1,0,,Skeena,Chinook,Upper Skeena
+213,2015,2,0,,Skeena,Pink,Middle-Upper Skeena (odd)
+213,2017,3,0,,Skeena,Pink,Middle-Upper Skeena (odd)
+213,2019,1,0,,Skeena,Pink,Middle-Upper Skeena (odd)
+213,2023,1,0,,Skeena,Pink,Middle-Upper Skeena (odd)
+214,2015,1,0,,Skeena,Chum,Middle Skeena
+214,2016,1,0,,Skeena,Chum,Middle Skeena
+214,2017,1,0,,Skeena,Chum,Middle Skeena
+214,2018,1,0,,Skeena,Chum,Middle Skeena
+214,2019,1,0,,Skeena,Chum,Middle Skeena
+214,2020,1,0,,Skeena,Chum,Middle Skeena
+214,2021,1,0,,Skeena,Chum,Middle Skeena
+214,2022,2,0,,Skeena,Chum,Middle Skeena
+215,2015,9,0,,Skeena,Coho,Middle Skeena
+215,2016,6,0,,Skeena,Coho,Middle Skeena
+215,2017,11,0,,Skeena,Coho,Middle Skeena
+215,2018,7,0,,Skeena,Coho,Middle Skeena
+215,2019,8,0,,Skeena,Coho,Middle Skeena
+215,2020,7,0,,Skeena,Coho,Middle Skeena
+215,2021,6,0,,Skeena,Coho,Middle Skeena
+215,2022,5,0,,Skeena,Coho,Middle Skeena
+215,2023,1,0,,Skeena,Coho,Middle Skeena
+215,2024,3,0,,Skeena,Coho,Middle Skeena
+216,2015,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2016,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2017,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2019,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2020,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2021,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2022,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2023,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+216,2024,1,0,,Skeena,Sockeye,Skeena River-High Interior (river-type)
+217,2015,1,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2016,1,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2017,1,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2018,3,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2019,2,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2020,1,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2021,1,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2022,2,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+217,2024,1,0,,Skeena,Chinook,Middle Skeena-Mainstem Tributaries
+218,2016,1,0,,Skeena,Pink,Middle-Upper Skeena (even)
+218,2018,1,0,,Skeena,Pink,Middle-Upper Skeena (even)
+218,2020,1,0,,Skeena,Pink,Middle-Upper Skeena (even)
+218,2022,3,0,,Skeena,Pink,Middle-Upper Skeena (even)
+218,2024,7,0,,Skeena,Pink,Middle-Upper Skeena (even)
+219,2016,24,0,,Skeena,Pink,Nass-Skeena Estuary (even)
+219,2018,23,0,,Skeena,Pink,Nass-Skeena Estuary (even)
+219,2020,24,0,,Skeena,Pink,Nass-Skeena Estuary (even)
+219,2022,26,0,,Skeena,Pink,Nass-Skeena Estuary (even)
+219,2024,42,0,,Skeena,Pink,Nass-Skeena Estuary (even)
+220,2015,1,0,,Skeena,Chum,Skeena Estuary
+220,2016,1,0,,Skeena,Chum,Skeena Estuary
+220,2017,1,0,,Skeena,Chum,Skeena Estuary
+220,2020,1,0,,Skeena,Chum,Skeena Estuary
+220,2021,1,0,,Skeena,Chum,Skeena Estuary
+220,2023,1,0,,Skeena,Chum,Skeena Estuary
+220,2024,3,0,,Skeena,Chum,Skeena Estuary
+221,2020,1,0,,Skeena,Chinook,Upper Bulkley River
+222,2015,5,1,4711.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2016,5,1,1842.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2017,4,1,1328.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2018,5,1,2681.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2019,5,1,1692.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2020,4,1,1944.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2021,4,1,2301.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2022,6,1,1883.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2023,1,1,2462.0,Skeena,Chinook,Middle Skeena-Large Lakes
+222,2024,5,1,2222.0,Skeena,Chinook,Middle Skeena-Large Lakes
+223,2015,2,0,,Skeena,Pink,Nass-Skeena Estuary (odd)
+223,2017,8,0,,Skeena,Pink,Nass-Skeena Estuary (odd)
+223,2019,8,0,,Skeena,Pink,Nass-Skeena Estuary (odd)
+223,2021,4,0,,Skeena,Pink,Nass-Skeena Estuary (odd)
+223,2023,2,0,,Skeena,Pink,Nass-Skeena Estuary (odd)
+224,2018,1,0,,Skeena,Chinook,Skeena Estuary
+224,2019,1,0,,Skeena,Chinook,Skeena Estuary
+224,2022,1,0,,Skeena,Chinook,Skeena Estuary
+225,2019,1,0,,Skeena,Coho,Skeena Estuary
+225,2020,1,0,,Skeena,Coho,Skeena Estuary
+226,2016,1,0,,Skeena,Sockeye,Skeena River (river-type)
+226,2019,2,0,,Skeena,Sockeye,Skeena River (river-type)
+226,2020,1,0,,Skeena,Sockeye,Skeena River (river-type)
+226,2022,1,0,,Skeena,Sockeye,Skeena River (river-type)
+227,2015,1,0,,Skeena,Chinook,Lakelse
+227,2017,1,0,,Skeena,Chinook,Lakelse
+227,2018,1,0,,Skeena,Chinook,Lakelse
+231,2015,2,0,,Skeena,Coho,Upper Skeena
+231,2016,2,0,,Skeena,Coho,Upper Skeena
+231,2017,3,0,,Skeena,Coho,Upper Skeena
+231,2018,3,0,,Skeena,Coho,Upper Skeena
+231,2019,3,0,,Skeena,Coho,Upper Skeena
+231,2020,2,0,,Skeena,Coho,Upper Skeena
+231,2021,2,0,,Skeena,Coho,Upper Skeena
+231,2022,1,0,,Skeena,Coho,Upper Skeena
+231,2023,2,0,,Skeena,Coho,Upper Skeena
+281,2015,1,1,959.0,Skeena,Steelhead,Upper Sustut
+281,2016,1,1,1532.0,Skeena,Steelhead,Upper Sustut
+281,2017,1,1,1005.0,Skeena,Steelhead,Upper Sustut
+281,2018,1,1,299.0,Skeena,Steelhead,Upper Sustut
+281,2019,1,1,670.0,Skeena,Steelhead,Upper Sustut
+281,2020,1,1,233.0,Skeena,Steelhead,Upper Sustut
+281,2021,1,1,133.0,Skeena,Steelhead,Upper Sustut
+281,2022,1,1,181.0,Skeena,Steelhead,Upper Sustut
+281,2023,1,1,60.0,Skeena,Steelhead,Upper Sustut
+281,2024,1,1,608.0,Skeena,Steelhead,Upper Sustut
+291,2015,2,0,,Skeena,Sockeye,Prudhomme
+291,2016,1,0,,Skeena,Sockeye,Prudhomme
+291,2018,2,0,,Skeena,Sockeye,Prudhomme
+291,2019,2,0,,Skeena,Sockeye,Prudhomme
+291,2020,1,0,,Skeena,Sockeye,Prudhomme
+291,2021,1,0,,Skeena,Sockeye,Prudhomme
+291,2022,1,0,,Skeena,Sockeye,Prudhomme
+291,2024,1,0,,Skeena,Sockeye,Prudhomme
+292,2015,1,0,,Skeena,Sockeye,Shawatlan
+292,2020,1,0,,Skeena,Sockeye,Shawatlan
+292,2022,1,0,,Skeena,Sockeye,Shawatlan
+292,2024,1,0,,Skeena,Sockeye,Shawatlan
+301,2015,1,0,,Columbia,Chinook,Okanagan
+301,2016,1,0,,Columbia,Chinook,Okanagan
+301,2017,1,0,,Columbia,Chinook,Okanagan
+301,2018,1,0,,Columbia,Chinook,Okanagan
+301,2019,1,0,,Columbia,Chinook,Okanagan
+301,2020,1,0,,Columbia,Chinook,Okanagan
+301,2021,1,0,,Columbia,Chinook,Okanagan
+301,2022,1,0,,Columbia,Chinook,Okanagan
+301,2023,1,0,,Columbia,Chinook,Okanagan
+302,2015,1,1,172.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2016,1,1,189.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2017,1,1,121.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2018,1,1,85.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2019,1,1,456.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2020,1,1,527.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2021,1,1,458.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2022,1,1,589.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2023,1,1,934.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+302,2024,1,1,340.0,Fraser,Chinook,Boundary Bay (Fall 4-1)
+303,2015,1,1,101516.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2016,1,1,41327.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2017,1,1,29799.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2018,1,1,46094.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2019,1,1,45186.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2020,1,1,43087.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2021,1,1,36449.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2022,1,1,81649.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2023,1,1,146498.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+303,2024,1,1,131544.0,Fraser,Chinook,Lower Fraser River (Fall 4-1)
+304,2015,1,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2016,1,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2017,2,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2018,2,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2019,2,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2020,2,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2021,2,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2022,2,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+304,2023,1,0,,Fraser,Chinook,Lower Fraser River (Spring 5-2)
+305,2016,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2017,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2018,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2019,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2020,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2021,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2022,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2023,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+305,2024,1,0,,Fraser,Chinook,Lower Fraser River-Upper Pitt (Summer 5-2)
+306,2015,3,1,94.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2016,2,1,48.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2017,5,1,105.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2018,4,1,20.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2019,4,1,31.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2020,5,1,66.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2021,2,1,60.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2022,4,1,12.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2023,5,1,82.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+306,2024,3,1,23.0,Fraser,Chinook,Lower Fraser River (Summer 5-2)
+307,2015,1,1,1238.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2016,1,1,105.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2017,1,1,71.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2018,1,1,0.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2019,1,1,302.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2020,1,1,26.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2021,1,1,32.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2022,1,1,38.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2023,1,1,69.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+307,2024,1,1,426.0,Fraser,Chinook,Lower Fraser River-Maria Slough (Summer 4-1)
+308,2015,1,1,6.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2016,1,1,17.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2017,1,1,8.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2018,1,1,11.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2019,1,1,80.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2020,1,1,71.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2021,1,1,30.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2022,1,1,86.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2023,1,1,108.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+308,2024,1,1,74.0,Fraser,Chinook,Fraser Canyon-Nahatlatch (Spring 5-2)
+309,2015,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2016,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2017,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2018,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2019,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2020,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2021,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2022,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+309,2024,1,0,,Fraser,Chinook,Middle Fraser River-Portage (Fall 5-2)
+310,2015,15,5,5595.691231,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2016,13,5,1898.796266,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2017,11,5,878.3879072,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2018,14,5,1449.0,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2019,17,5,705.8349451,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2020,15,5,3704.0,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2021,19,5,3044.0,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2022,19,5,4676.0,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2023,17,5,2476.0,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+310,2024,15,5,2508.0,Fraser,Chinook,Middle Fraser River (Spring 5-2)
+311,2015,10,7,24784.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2016,9,7,8669.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2017,12,7,4819.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2018,11,7,4721.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2019,11,7,4318.769246,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2020,10,7,8985.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2021,10,7,9904.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2022,10,7,20349.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2023,7,7,14175.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+311,2024,10,7,8818.0,Fraser,Chinook,Middle Fraser River (Summer 5-2)
+312,2015,27,14,12740.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2016,23,14,7066.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2017,24,14,4270.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2018,23,14,4296.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2019,19,14,1394.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2020,19,14,7586.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2021,23,14,9899.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2022,21,14,12248.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2023,23,14,8995.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+312,2024,19,14,7165.0,Fraser,Chinook,Upper Fraser River (Spring 5-2)
+313,2015,4,3,134254.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2016,4,3,86205.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2017,3,3,70182.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2018,4,3,27323.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2019,4,3,137227.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2020,3,3,119896.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2021,3,3,144228.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2022,3,3,75199.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2023,4,3,548686.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+313,2024,3,3,149105.0,Fraser,Chinook,South Thompson River (Summer 4-1)
+314,2015,4,3,1047.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2016,3,3,375.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2017,4,3,1105.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2018,4,3,880.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2019,4,3,1179.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2020,3,3,1069.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2021,4,3,3075.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2022,4,3,1205.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2023,4,3,1198.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+314,2024,3,3,708.0,Fraser,Chinook,South Thompson River (Summer 5-2)
+315,2015,3,2,42479.883149,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2016,2,2,6913.4144554,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2017,3,2,14217.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2018,3,2,19220.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2019,3,2,31705.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2020,2,2,27582.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2021,3,2,31427.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2022,3,2,35639.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2023,3,2,78164.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+315,2024,2,2,17779.0,Fraser,Chinook,Shuswap River (Summer 4-1)
+316,2015,4,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2016,3,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2017,4,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2018,4,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2019,4,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2021,4,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2022,4,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2023,3,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+316,2024,4,0,,Fraser,Chinook,South Thompson River-Bessette Creek (Summer 4-2)
+317,2015,6,6,11147.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2016,6,6,8897.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2017,6,6,5105.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2018,6,6,2100.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2019,6,6,5848.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2020,6,6,8463.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2021,6,6,6315.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2022,6,6,10162.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2023,6,6,11262.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+317,2024,6,6,5682.0,Fraser,Chinook,Lower Thompson River (Spring 4-2)
+318,2015,1,1,58.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2016,2,1,40.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2017,2,1,20.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2018,2,1,9.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2019,2,1,149.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2020,2,1,111.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2021,2,1,32.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2022,2,1,109.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2023,2,1,48.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+318,2024,2,1,11.0,Fraser,Chinook,North Thompson River (Spring 5-2)
+319,2015,7,5,5587.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2016,6,5,804.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2017,7,5,1453.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2018,6,5,674.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2019,6,5,1015.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2020,7,5,4002.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2021,5,5,3961.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2022,6,5,6076.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2023,5,5,4593.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+319,2024,6,5,2781.0,Fraser,Chinook,North Thompson River (Summer 5-2)
+320,2015,1,1,0.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2016,1,1,146.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2017,1,1,42.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2018,1,1,64.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2019,1,1,43.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2020,1,1,46.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2021,3,1,54.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2022,2,1,34.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2023,3,1,491.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+320,2024,1,1,5.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Georgia Strait (Fall x-1)
+321,2015,1,1,5.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2016,1,1,15.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2017,1,1,2.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2018,1,1,27.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2019,1,1,11.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2020,1,1,3.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2021,1,1,24.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2022,1,1,5.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2023,1,1,5.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+321,2024,1,1,14.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Goldstream (Fall x-1)
+322,2015,1,1,7219.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2016,1,1,10854.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2017,1,1,25060.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2018,1,1,22482.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2019,1,1,21591.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2020,1,1,24726.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2021,1,1,23745.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2022,1,1,28736.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2023,1,1,35324.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+322,2024,1,1,42569.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+324,2015,2,1,5023.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2016,1,1,4964.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2017,1,1,4211.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2018,2,1,4074.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2019,1,1,5142.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2020,2,1,7016.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2021,1,1,7948.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2022,2,1,15074.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2023,3,1,9701.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+324,2024,3,1,7501.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+325,2015,4,4,18232.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2016,4,4,19293.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2017,5,4,27762.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2018,5,4,22185.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2019,6,4,38715.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2020,5,4,33392.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2021,6,4,32692.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2022,5,4,26321.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2023,6,4,33766.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+325,2024,5,4,27349.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+326,2015,2,1,2388.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2016,1,1,2140.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2017,1,1,2426.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2018,2,1,1268.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2019,4,1,2549.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2020,6,1,3354.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2021,12,1,2234.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2022,9,1,2088.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2023,7,1,3278.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+326,2024,6,1,4202.0,East Vancouver Island & Mainland Inlets,Chinook,Southern Mainland-Southern Fjords (Fall x-1)
+327,2015,8,5,4237.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2016,9,5,7826.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2017,6,5,11401.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2018,8,5,7744.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2019,7,5,8149.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2020,7,5,12731.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2021,6,5,9588.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2022,6,5,6153.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2023,7,5,6777.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+327,2024,7,5,7325.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-North (Fall x-1)
+328,2015,19,12,35671.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2016,19,12,29767.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2017,23,12,29636.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2018,26,12,36292.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2019,27,12,29822.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2020,28,12,40486.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2021,25,12,35505.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2022,28,12,35737.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2023,25,12,36509.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+328,2024,28,12,25776.0,West Vancouver Island,Chinook,West Vancouver Island-South (Fall x-1)
+329,2015,18,10,52076.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2016,20,10,53165.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2017,16,10,32358.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2018,16,10,20489.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2019,21,10,15951.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2020,24,10,15596.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2021,20,10,19855.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2022,19,10,20900.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2023,15,10,31956.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+329,2024,14,10,34405.0,West Vancouver Island,Chinook,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+330,2015,3,3,7142.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2016,3,3,2082.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2017,3,3,6721.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2018,4,3,1046.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2019,4,3,5704.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2020,4,3,2397.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2021,3,3,2269.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2022,3,3,2166.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2023,3,3,5877.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+330,2024,4,3,1678.0,West Vancouver Island,Chinook,West Vancouver Island-North (Fall x-1)
+331,2021,1,0,,East Vancouver Island & Mainland Inlets,Chinook,Homathko (Summer x-x)
+331,2023,1,0,,East Vancouver Island & Mainland Inlets,Chinook,Homathko (Summer x-x)
+331,2024,1,0,,East Vancouver Island & Mainland Inlets,Chinook,Homathko (Summer x-x)
+332,2024,1,0,,East Vancouver Island & Mainland Inlets,Chinook,Klinaklini (Summer 5-2)
+333,2018,1,0,,Fraser,Chinook,South Thompson-Adams River Upper
+333,2019,1,0,,Fraser,Chinook,South Thompson-Adams River Upper
+333,2020,1,0,,Fraser,Chinook,South Thompson-Adams River Upper
+333,2021,1,0,,Fraser,Chinook,South Thompson-Adams River Upper
+333,2022,1,0,,Fraser,Chinook,South Thompson-Adams River Upper
+333,2023,1,0,,Fraser,Chinook,South Thompson-Adams River Upper
+334,2015,4,1,596.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2016,2,1,579.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2017,3,1,1017.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2018,3,1,820.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2019,3,1,645.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2020,2,1,434.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2021,3,1,517.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2022,3,1,410.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2023,3,1,200.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+334,2024,3,1,89.0,East Vancouver Island & Mainland Inlets,Chinook,East Vancouver Island-Georgia Strait (Summer 4-1)
+401,2015,3,0,,Nass,Chinook,Portland Sound-Observatory Inlet-Lower Nass
+401,2018,1,0,,Nass,Chinook,Portland Sound-Observatory Inlet-Lower Nass
+401,2019,2,0,,Nass,Chinook,Portland Sound-Observatory Inlet-Lower Nass
+401,2021,3,0,,Nass,Chinook,Portland Sound-Observatory Inlet-Lower Nass
+401,2022,1,0,,Nass,Chinook,Portland Sound-Observatory Inlet-Lower Nass
+401,2023,2,0,,Nass,Chinook,Portland Sound-Observatory Inlet-Lower Nass
+401,2024,2,0,,Nass,Chinook,Portland Sound-Observatory Inlet-Lower Nass
+402,2015,3,0,,Nass,Chinook,Upper Nass
+402,2016,3,0,,Nass,Chinook,Upper Nass
+402,2017,4,0,,Nass,Chinook,Upper Nass
+402,2018,4,0,,Nass,Chinook,Upper Nass
+402,2019,4,0,,Nass,Chinook,Upper Nass
+402,2020,1,0,,Nass,Chinook,Upper Nass
+402,2021,5,0,,Nass,Chinook,Upper Nass
+402,2022,4,0,,Nass,Chinook,Upper Nass
+402,2024,4,0,,Nass,Chinook,Upper Nass
+404,2015,3,0,,Nass,Chum,Portland Inlet
+404,2016,3,0,,Nass,Chum,Portland Inlet
+404,2018,5,0,,Nass,Chum,Portland Inlet
+404,2019,3,0,,Nass,Chum,Portland Inlet
+404,2020,1,0,,Nass,Chum,Portland Inlet
+404,2021,1,0,,Nass,Chum,Portland Inlet
+404,2022,2,0,,Nass,Chum,Portland Inlet
+404,2023,9,0,,Nass,Chum,Portland Inlet
+404,2024,7,0,,Nass,Chum,Portland Inlet
+405,2015,3,0,,Nass,Chum,Lower Nass
+405,2016,2,0,,Nass,Chum,Lower Nass
+405,2017,1,0,,Nass,Chum,Lower Nass
+405,2018,1,0,,Nass,Chum,Lower Nass
+405,2019,2,0,,Nass,Chum,Lower Nass
+405,2024,1,0,,Nass,Chum,Lower Nass
+406,2015,6,0,,Nass,Chum,Portland Canal-Observatory
+406,2016,5,0,,Nass,Chum,Portland Canal-Observatory
+406,2017,6,0,,Nass,Chum,Portland Canal-Observatory
+406,2018,5,0,,Nass,Chum,Portland Canal-Observatory
+406,2019,4,0,,Nass,Chum,Portland Canal-Observatory
+406,2021,4,0,,Nass,Chum,Portland Canal-Observatory
+406,2022,5,0,,Nass,Chum,Portland Canal-Observatory
+406,2024,4,0,,Nass,Chum,Portland Canal-Observatory
+408,2015,3,0,,Nass,Coho,Lower Nass
+408,2016,4,0,,Nass,Coho,Lower Nass
+408,2017,3,0,,Nass,Coho,Lower Nass
+408,2018,2,0,,Nass,Coho,Lower Nass
+408,2019,3,0,,Nass,Coho,Lower Nass
+408,2021,4,0,,Nass,Coho,Lower Nass
+408,2022,3,0,,Nass,Coho,Lower Nass
+408,2024,4,0,,Nass,Coho,Lower Nass
+409,2015,2,0,,Nass,Coho,Upper Nass
+409,2016,2,0,,Nass,Coho,Upper Nass
+409,2017,3,0,,Nass,Coho,Upper Nass
+409,2018,3,0,,Nass,Coho,Upper Nass
+409,2019,3,0,,Nass,Coho,Upper Nass
+409,2020,1,0,,Nass,Coho,Upper Nass
+409,2021,2,0,,Nass,Coho,Upper Nass
+409,2022,3,0,,Nass,Coho,Upper Nass
+409,2023,1,0,,Nass,Coho,Upper Nass
+409,2024,2,0,,Nass,Coho,Upper Nass
+410,2015,4,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+410,2016,3,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+410,2017,3,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+410,2018,2,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+410,2019,1,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+410,2021,1,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+410,2022,1,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+410,2023,1,0,,Nass,Coho,Portland Sound-Observatory Inlet-Portland Canal
+414,2015,15,0,,Nass,Pink,Nass-Portland-Observatory (odd)
+414,2017,15,0,,Nass,Pink,Nass-Portland-Observatory (odd)
+414,2019,13,0,,Nass,Pink,Nass-Portland-Observatory (odd)
+414,2021,9,0,,Nass,Pink,Nass-Portland-Observatory (odd)
+414,2023,11,0,,Nass,Pink,Nass-Portland-Observatory (odd)
+415,2017,1,0,,Nass,Pink,Upper Nass (odd)
+421,2015,1,0,,Nass,Sockeye,Damdochax
+421,2016,1,0,,Nass,Sockeye,Damdochax
+421,2021,1,0,,Nass,Sockeye,Damdochax
+421,2022,1,0,,Nass,Sockeye,Damdochax
+421,2024,1,0,,Nass,Sockeye,Damdochax
+422,2015,1,0,,Nass,Sockeye,Fred Wright
+422,2016,1,0,,Nass,Sockeye,Fred Wright
+422,2017,1,0,,Nass,Sockeye,Fred Wright
+422,2018,1,0,,Nass,Sockeye,Fred Wright
+422,2019,1,0,,Nass,Sockeye,Fred Wright
+422,2020,1,0,,Nass,Sockeye,Fred Wright
+422,2021,1,0,,Nass,Sockeye,Fred Wright
+422,2022,1,0,,Nass,Sockeye,Fred Wright
+422,2024,1,0,,Nass,Sockeye,Fred Wright
+424,2015,1,0,,Nass,Sockeye,Meziadin
+424,2016,1,0,,Nass,Sockeye,Meziadin
+424,2017,1,0,,Nass,Sockeye,Meziadin
+424,2018,1,0,,Nass,Sockeye,Meziadin
+424,2019,1,0,,Nass,Sockeye,Meziadin
+424,2021,1,0,,Nass,Sockeye,Meziadin
+424,2022,1,0,,Nass,Sockeye,Meziadin
+424,2024,1,0,,Nass,Sockeye,Meziadin
+426,2015,4,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+426,2016,4,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+426,2017,2,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+426,2018,2,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+426,2019,4,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+426,2021,1,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+426,2022,1,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+426,2024,2,0,,Nass,Sockeye,Lower Nass-Portland (river-type)
+427,2015,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2016,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2017,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2018,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2019,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2020,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2022,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2023,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+427,2024,1,0,,Nass,Sockeye,Upper Nass River (river-type)
+480,2015,2,2,166.0,Nass,Steelhead,Nass Summer
+480,2016,2,2,387.0,Nass,Steelhead,Nass Summer
+480,2017,2,2,209.0,Nass,Steelhead,Nass Summer
+480,2018,2,2,31.0,Nass,Steelhead,Nass Summer
+480,2019,2,2,202.0,Nass,Steelhead,Nass Summer
+480,2020,2,2,119.0,Nass,Steelhead,Nass Summer
+480,2021,2,2,81.0,Nass,Steelhead,Nass Summer
+480,2022,2,2,230.0,Nass,Steelhead,Nass Summer
+480,2023,2,2,77.0,Nass,Steelhead,Nass Summer
+480,2024,2,2,292.0,Nass,Steelhead,Nass Summer
+500,2016,4,0,,Central Coast,Chum,Smith Inlet
+500,2017,4,0,,Central Coast,Chum,Smith Inlet
+500,2018,3,0,,Central Coast,Chum,Smith Inlet
+500,2019,3,0,,Central Coast,Chum,Smith Inlet
+500,2020,2,0,,Central Coast,Chum,Smith Inlet
+500,2021,1,0,,Central Coast,Chum,Smith Inlet
+500,2022,1,0,,Central Coast,Chum,Smith Inlet
+500,2023,1,0,,Central Coast,Chum,Smith Inlet
+500,2024,1,0,,Central Coast,Chum,Smith Inlet
+501,2015,1,0,,Central Coast,Chum,Rivers Inlet
+501,2016,1,0,,Central Coast,Chum,Rivers Inlet
+501,2017,4,0,,Central Coast,Chum,Rivers Inlet
+501,2018,4,0,,Central Coast,Chum,Rivers Inlet
+501,2019,2,0,,Central Coast,Chum,Rivers Inlet
+501,2020,1,0,,Central Coast,Chum,Rivers Inlet
+501,2021,3,0,,Central Coast,Chum,Rivers Inlet
+501,2022,5,0,,Central Coast,Chum,Rivers Inlet
+501,2023,10,0,,Central Coast,Chum,Rivers Inlet
+501,2024,5,0,,Central Coast,Chum,Rivers Inlet
+503,2015,31,19,151909.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2016,31,19,49593.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2017,36,19,53975.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2018,41,19,38453.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2019,38,19,36926.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2020,37,19,11026.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2021,39,19,30991.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2022,38,19,34396.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2023,40,19,28605.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+503,2024,34,19,32530.0,Central Coast,Chum,Spiller-Fitz-Hugh-Burke
+504,2015,5,1,3050.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2016,13,1,10300.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2017,13,1,12300.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2018,11,1,13400.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2019,13,1,7100.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2020,7,1,1380.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2021,10,1,7539.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2022,15,1,6760.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2023,11,1,4120.0,Central Coast,Chum,Bella Coola-Dean Rivers
+504,2024,11,1,9902.0,Central Coast,Chum,Bella Coola-Dean Rivers
+506,2015,22,2,1740.0,Central Coast,Chum,Hecate Lowlands
+506,2016,27,2,402.0,Central Coast,Chum,Hecate Lowlands
+506,2017,14,2,488.0,Central Coast,Chum,Hecate Lowlands
+506,2018,27,2,718.0,Central Coast,Chum,Hecate Lowlands
+506,2019,26,2,712.0,Central Coast,Chum,Hecate Lowlands
+506,2020,25,2,235.0,Central Coast,Chum,Hecate Lowlands
+506,2021,28,2,477.0,Central Coast,Chum,Hecate Lowlands
+506,2022,29,2,654.0,Central Coast,Chum,Hecate Lowlands
+506,2023,20,2,253.0,Central Coast,Chum,Hecate Lowlands
+506,2024,32,2,203.0,Central Coast,Chum,Hecate Lowlands
+507,2015,10,1,2425.0,Central Coast,Chum,Mussel-Kynoch
+507,2016,10,1,2300.0,Central Coast,Chum,Mussel-Kynoch
+507,2017,5,1,1025.0,Central Coast,Chum,Mussel-Kynoch
+507,2018,10,1,400.0,Central Coast,Chum,Mussel-Kynoch
+507,2019,10,1,1700.0,Central Coast,Chum,Mussel-Kynoch
+507,2020,8,1,800.0,Central Coast,Chum,Mussel-Kynoch
+507,2021,7,1,1500.0,Central Coast,Chum,Mussel-Kynoch
+507,2022,9,1,2050.0,Central Coast,Chum,Mussel-Kynoch
+507,2023,11,1,1100.0,Central Coast,Chum,Mussel-Kynoch
+507,2024,8,1,1100.0,Central Coast,Chum,Mussel-Kynoch
+508,2015,38,16,105050.0,Central Coast,Chum,Douglas-Gardner
+508,2016,40,16,71215.0,Central Coast,Chum,Douglas-Gardner
+508,2017,27,16,11045.0,Central Coast,Chum,Douglas-Gardner
+508,2018,30,16,19903.0,Central Coast,Chum,Douglas-Gardner
+508,2019,36,16,43000.0,Central Coast,Chum,Douglas-Gardner
+508,2020,21,16,3314.0,Central Coast,Chum,Douglas-Gardner
+508,2021,33,16,14678.0,Central Coast,Chum,Douglas-Gardner
+508,2022,34,16,51710.0,Central Coast,Chum,Douglas-Gardner
+508,2023,35,16,46500.0,Central Coast,Chum,Douglas-Gardner
+508,2024,40,16,27756.0,Central Coast,Chum,Douglas-Gardner
+510,2022,2,0,,Central Coast,Chinook,Rivers Inlet
+510,2023,2,0,,Central Coast,Chinook,Rivers Inlet
+510,2024,2,0,,Central Coast,Chinook,Rivers Inlet
+512,2016,1,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2017,1,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2018,4,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2019,2,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2020,2,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2021,2,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2022,1,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2023,2,0,,Central Coast,Chinook,Bella Coola-Bentinck
+512,2024,1,0,,Central Coast,Chinook,Bella Coola-Bentinck
+513,2017,1,0,,Central Coast,Chinook,Dean River
+513,2020,1,0,,Central Coast,Chinook,Dean River
+513,2021,1,0,,Central Coast,Chinook,Dean River
+513,2022,1,0,,Central Coast,Chinook,Dean River
+513,2024,1,0,,Central Coast,Chinook,Dean River
+514,2015,1,0,,Central Coast,Chinook,North & Central Coast-Late
+514,2017,1,0,,Central Coast,Chinook,North & Central Coast-Late
+514,2018,2,0,,Central Coast,Chinook,North & Central Coast-Late
+514,2019,3,0,,Central Coast,Chinook,North & Central Coast-Late
+514,2020,1,0,,Central Coast,Chinook,North & Central Coast-Late
+514,2021,1,0,,Central Coast,Chinook,North & Central Coast-Late
+514,2022,1,0,,Central Coast,Chinook,North & Central Coast-Late
+514,2024,2,0,,Central Coast,Chinook,North & Central Coast-Late
+515,2015,5,2,238.0,Central Coast,Chinook,North & Central Coast-Early
+515,2016,8,2,140.0,Central Coast,Chinook,North & Central Coast-Early
+515,2017,5,2,127.0,Central Coast,Chinook,North & Central Coast-Early
+515,2018,10,2,448.0,Central Coast,Chinook,North & Central Coast-Early
+515,2019,10,2,685.0,Central Coast,Chinook,North & Central Coast-Early
+515,2020,11,2,161.0,Central Coast,Chinook,North & Central Coast-Early
+515,2021,8,2,171.0,Central Coast,Chinook,North & Central Coast-Early
+515,2022,4,2,118.0,Central Coast,Chinook,North & Central Coast-Early
+515,2023,6,2,97.0,Central Coast,Chinook,North & Central Coast-Early
+515,2024,5,2,136.0,Central Coast,Chinook,North & Central Coast-Early
+516,2016,2,0,,Central Coast,Coho,Smith Inlet
+516,2018,1,0,,Central Coast,Coho,Smith Inlet
+517,2016,3,0,,Central Coast,Coho,Rivers Inlet
+517,2017,5,0,,Central Coast,Coho,Rivers Inlet
+517,2020,3,0,,Central Coast,Coho,Rivers Inlet
+517,2022,2,0,,Central Coast,Coho,Rivers Inlet
+517,2023,1,0,,Central Coast,Coho,Rivers Inlet
+518,2015,21,6,1010.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2016,13,6,178.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2017,22,6,1558.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2018,17,6,311.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2019,22,6,968.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2020,22,6,234.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2021,24,6,1118.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2022,21,6,1200.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2023,19,6,614.0,Central Coast,Coho,Bella Coola-Dean Rivers
+518,2024,13,6,914.0,Central Coast,Coho,Bella Coola-Dean Rivers
+519,2016,1,0,,Central Coast,Coho,Mussel-Kynoch
+519,2018,1,0,,Central Coast,Coho,Mussel-Kynoch
+519,2019,1,0,,Central Coast,Coho,Mussel-Kynoch
+519,2021,1,0,,Central Coast,Coho,Mussel-Kynoch
+519,2022,2,0,,Central Coast,Coho,Mussel-Kynoch
+519,2023,3,0,,Central Coast,Coho,Mussel-Kynoch
+519,2024,3,0,,Central Coast,Coho,Mussel-Kynoch
+520,2015,18,1,3000.0,Central Coast,Coho,Hecate Strait Mainland
+520,2016,19,1,3100.0,Central Coast,Coho,Hecate Strait Mainland
+520,2017,11,1,2400.0,Central Coast,Coho,Hecate Strait Mainland
+520,2018,19,1,2960.0,Central Coast,Coho,Hecate Strait Mainland
+520,2019,12,1,1120.0,Central Coast,Coho,Hecate Strait Mainland
+520,2020,7,1,1500.0,Central Coast,Coho,Hecate Strait Mainland
+520,2021,8,1,2650.0,Central Coast,Coho,Hecate Strait Mainland
+520,2022,9,1,2030.0,Central Coast,Coho,Hecate Strait Mainland
+520,2023,9,1,2600.0,Central Coast,Coho,Hecate Strait Mainland
+520,2024,13,1,2050.0,Central Coast,Coho,Hecate Strait Mainland
+522,2015,5,1,455.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2016,7,1,520.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2017,5,1,880.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2018,5,1,55.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2019,6,1,400.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2020,5,1,405.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2021,7,1,320.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2022,5,1,740.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2023,6,1,665.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+522,2024,4,1,216.0,Central Coast,Coho,Douglas Channel-Kitimat Arm
+523,2015,21,6,4860.0,Central Coast,Coho,Northern Coastal Streams
+523,2016,15,6,9870.0,Central Coast,Coho,Northern Coastal Streams
+523,2017,15,6,11780.0,Central Coast,Coho,Northern Coastal Streams
+523,2018,18,6,4835.0,Central Coast,Coho,Northern Coastal Streams
+523,2019,24,6,3600.0,Central Coast,Coho,Northern Coastal Streams
+523,2020,24,6,7465.0,Central Coast,Coho,Northern Coastal Streams
+523,2021,16,6,9610.0,Central Coast,Coho,Northern Coastal Streams
+523,2022,19,6,7490.0,Central Coast,Coho,Northern Coastal Streams
+523,2023,17,6,9760.0,Central Coast,Coho,Northern Coastal Streams
+523,2024,10,6,7895.0,Central Coast,Coho,Northern Coastal Streams
+525,2015,4,0,,Central Coast,Sockeye,Owikeno
+525,2016,4,0,,Central Coast,Sockeye,Owikeno
+525,2017,4,0,,Central Coast,Sockeye,Owikeno
+525,2018,4,0,,Central Coast,Sockeye,Owikeno
+525,2019,4,0,,Central Coast,Sockeye,Owikeno
+525,2022,4,0,,Central Coast,Sockeye,Owikeno
+525,2023,5,0,,Central Coast,Sockeye,Owikeno
+525,2024,3,0,,Central Coast,Sockeye,Owikeno
+528,2015,1,1,11194.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2016,1,1,6940.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2017,1,1,3318.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2018,1,1,7738.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2019,1,1,4598.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2020,1,1,8427.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2021,1,1,5927.5,Central Coast,Sockeye,South Atnarko Lakes
+528,2022,1,1,6501.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2023,1,1,9253.0,Central Coast,Sockeye,South Atnarko Lakes
+528,2024,1,1,12041.0,Central Coast,Sockeye,South Atnarko Lakes
+529,2015,1,0,,Central Coast,Sockeye,Backland
+529,2016,1,0,,Central Coast,Sockeye,Backland
+529,2017,1,0,,Central Coast,Sockeye,Backland
+529,2018,1,0,,Central Coast,Sockeye,Backland
+529,2019,1,0,,Central Coast,Sockeye,Backland
+529,2020,1,0,,Central Coast,Sockeye,Backland
+529,2021,1,0,,Central Coast,Sockeye,Backland
+529,2023,1,0,,Central Coast,Sockeye,Backland
+532,2016,1,0,,Central Coast,Sockeye,Canoona
+532,2018,1,0,,Central Coast,Sockeye,Canoona
+532,2019,1,0,,Central Coast,Sockeye,Canoona
+532,2020,1,0,,Central Coast,Sockeye,Canoona
+532,2021,1,0,,Central Coast,Sockeye,Canoona
+532,2023,1,0,,Central Coast,Sockeye,Canoona
+532,2024,1,0,,Central Coast,Sockeye,Canoona
+534,2015,1,1,850.0,Central Coast,Sockeye,Evelyn
+534,2016,1,1,730.0,Central Coast,Sockeye,Evelyn
+534,2017,1,1,1860.0,Central Coast,Sockeye,Evelyn
+534,2018,1,1,370.0,Central Coast,Sockeye,Evelyn
+534,2019,1,1,540.0,Central Coast,Sockeye,Evelyn
+534,2020,1,1,340.0,Central Coast,Sockeye,Evelyn
+534,2021,1,1,920.0,Central Coast,Sockeye,Evelyn
+534,2022,1,1,860.0,Central Coast,Sockeye,Evelyn
+534,2023,1,1,870.0,Central Coast,Sockeye,Evelyn
+534,2024,1,1,880.0,Central Coast,Sockeye,Evelyn
+535,2015,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2016,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2017,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2018,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2019,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2020,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2021,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2022,1,0,,Central Coast,Sockeye,Kainet Creek
+535,2023,1,0,,Central Coast,Sockeye,Kainet Creek
+536,2020,1,0,,Central Coast,Sockeye,Kimsquit
+537,2015,1,0,,Central Coast,Sockeye,Kitkiata
+537,2017,1,0,,Central Coast,Sockeye,Kitkiata
+537,2019,1,0,,Central Coast,Sockeye,Kitkiata
+537,2020,1,0,,Central Coast,Sockeye,Kitkiata
+537,2021,1,0,,Central Coast,Sockeye,Kitkiata
+537,2022,1,0,,Central Coast,Sockeye,Kitkiata
+537,2023,1,0,,Central Coast,Sockeye,Kitkiata
+537,2024,1,0,,Central Coast,Sockeye,Kitkiata
+538,2015,1,1,10500.0,Central Coast,Sockeye,Kitlope
+538,2016,1,1,12400.0,Central Coast,Sockeye,Kitlope
+538,2017,1,1,4000.0,Central Coast,Sockeye,Kitlope
+538,2018,1,1,12350.0,Central Coast,Sockeye,Kitlope
+538,2019,1,1,8600.0,Central Coast,Sockeye,Kitlope
+538,2020,1,1,5220.0,Central Coast,Sockeye,Kitlope
+538,2021,1,1,9940.0,Central Coast,Sockeye,Kitlope
+538,2022,1,1,10500.0,Central Coast,Sockeye,Kitlope
+538,2023,1,1,8865.0,Central Coast,Sockeye,Kitlope
+538,2024,1,1,14600.0,Central Coast,Sockeye,Kitlope
+541,2021,1,0,,Central Coast,Sockeye,Bloomfield
+541,2022,1,0,,Central Coast,Sockeye,Bloomfield
+541,2024,1,0,,Central Coast,Sockeye,Bloomfield
+549,2015,1,0,,Central Coast,Sockeye,Fannie Cove
+549,2016,1,0,,Central Coast,Sockeye,Fannie Cove
+549,2017,1,0,,Central Coast,Sockeye,Fannie Cove
+549,2021,1,0,,Central Coast,Sockeye,Fannie Cove
+550,2015,1,0,,Central Coast,Sockeye,Curtis Inlet
+552,2016,1,0,,Central Coast,Sockeye,Deer
+552,2017,1,0,,Central Coast,Sockeye,Deer
+552,2019,1,0,,Central Coast,Sockeye,Deer
+552,2020,1,0,,Central Coast,Sockeye,Deer
+552,2021,1,0,,Central Coast,Sockeye,Deer
+552,2022,1,0,,Central Coast,Sockeye,Deer
+552,2023,1,0,,Central Coast,Sockeye,Deer
+552,2024,1,0,,Central Coast,Sockeye,Deer
+553,2015,1,0,,Central Coast,Sockeye,Devon
+553,2016,1,0,,Central Coast,Sockeye,Devon
+553,2017,1,0,,Central Coast,Sockeye,Devon
+559,2020,1,0,,Central Coast,Sockeye,Freeda
+559,2024,1,0,,Central Coast,Sockeye,Freeda
+560,2015,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2016,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2017,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2018,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2019,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2020,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2021,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2022,1,0,,Central Coast,Sockeye,Hartley Bay
+560,2023,1,0,,Central Coast,Sockeye,Hartley Bay
+563,2017,1,0,,Central Coast,Sockeye,Kadjusdis River
+563,2018,1,0,,Central Coast,Sockeye,Kadjusdis River
+563,2019,1,0,,Central Coast,Sockeye,Kadjusdis River
+563,2020,1,0,,Central Coast,Sockeye,Kadjusdis River
+563,2021,1,0,,Central Coast,Sockeye,Kadjusdis River
+563,2022,1,0,,Central Coast,Sockeye,Kadjusdis River
+563,2023,1,0,,Central Coast,Sockeye,Kadjusdis River
+563,2024,1,0,,Central Coast,Sockeye,Kadjusdis River
+565,2015,1,0,,Central Coast,Sockeye,Keecha
+565,2017,1,0,,Central Coast,Sockeye,Keecha
+571,2016,1,0,,Central Coast,Sockeye,Kisameet
+571,2017,1,0,,Central Coast,Sockeye,Kisameet
+571,2018,1,0,,Central Coast,Sockeye,Kisameet
+571,2019,1,0,,Central Coast,Sockeye,Kisameet
+572,2015,1,0,,Central Coast,Sockeye,Koeye
+572,2016,1,0,,Central Coast,Sockeye,Koeye
+572,2017,1,0,,Central Coast,Sockeye,Koeye
+572,2018,1,0,,Central Coast,Sockeye,Koeye
+572,2019,1,0,,Central Coast,Sockeye,Koeye
+572,2020,1,0,,Central Coast,Sockeye,Koeye
+572,2021,1,0,,Central Coast,Sockeye,Koeye
+573,2015,1,0,,Central Coast,Sockeye,Kooryet
+573,2016,1,0,,Central Coast,Sockeye,Kooryet
+573,2017,1,0,,Central Coast,Sockeye,Kooryet
+573,2018,1,0,,Central Coast,Sockeye,Kooryet
+573,2020,1,0,,Central Coast,Sockeye,Kooryet
+574,2015,1,0,,Central Coast,Sockeye,Kunsoot River
+574,2016,1,0,,Central Coast,Sockeye,Kunsoot River
+574,2017,1,0,,Central Coast,Sockeye,Kunsoot River
+574,2023,1,0,,Central Coast,Sockeye,Kunsoot River
+575,2021,1,0,,Central Coast,Sockeye,Kwakwa Creek
+578,2016,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2017,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2018,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2019,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2020,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2021,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2022,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2023,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+578,2024,1,0,,Central Coast,Sockeye,Lowe/Simpson/Weir
+579,2015,1,0,,Central Coast,Sockeye,Mary Cove Creek
+579,2018,1,0,,Central Coast,Sockeye,Mary Cove Creek
+579,2023,1,0,,Central Coast,Sockeye,Mary Cove Creek
+582,2015,1,0,,Central Coast,Sockeye,Mikado
+582,2016,1,0,,Central Coast,Sockeye,Mikado
+582,2017,1,0,,Central Coast,Sockeye,Mikado
+584,2015,1,0,,Central Coast,Sockeye,Namu
+584,2016,1,0,,Central Coast,Sockeye,Namu
+584,2017,1,0,,Central Coast,Sockeye,Namu
+584,2018,1,0,,Central Coast,Sockeye,Namu
+584,2019,1,0,,Central Coast,Sockeye,Namu
+584,2020,1,0,,Central Coast,Sockeye,Namu
+584,2021,1,0,,Central Coast,Sockeye,Namu
+584,2022,1,0,,Central Coast,Sockeye,Namu
+584,2024,1,0,,Central Coast,Sockeye,Namu
+585,2015,1,0,,Central Coast,Sockeye,Port John
+585,2016,1,0,,Central Coast,Sockeye,Port John
+585,2017,1,0,,Central Coast,Sockeye,Port John
+585,2021,1,0,,Central Coast,Sockeye,Port John
+585,2022,1,0,,Central Coast,Sockeye,Port John
+585,2023,1,0,,Central Coast,Sockeye,Port John
+585,2024,1,0,,Central Coast,Sockeye,Port John
+587,2021,1,0,,Central Coast,Sockeye,Price Creek
+587,2022,1,0,,Central Coast,Sockeye,Price Creek
+588,2015,1,0,,Central Coast,Sockeye,Roderick
+588,2016,1,0,,Central Coast,Sockeye,Roderick
+588,2017,1,0,,Central Coast,Sockeye,Roderick
+588,2018,1,0,,Central Coast,Sockeye,Roderick
+588,2020,1,0,,Central Coast,Sockeye,Roderick
+588,2022,1,0,,Central Coast,Sockeye,Roderick
+591,2018,1,0,,Central Coast,Sockeye,Scoular/Kilpatrick
+596,2022,1,0,,Central Coast,Sockeye,Talamoosa Creek
+597,2020,1,0,,Central Coast,Sockeye,Tankeeah River
+597,2022,1,0,,Central Coast,Sockeye,Tankeeah River
+597,2023,1,0,,Central Coast,Sockeye,Tankeeah River
+599,2015,1,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+599,2016,1,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+599,2017,1,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+599,2019,1,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+599,2021,2,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+599,2022,2,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+599,2023,2,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+599,2024,1,0,,Central Coast,Sockeye,Tsimtack/Moore/Roger
+607,2017,1,0,,Central Coast,Sockeye,Yeo
+607,2019,1,0,,Central Coast,Sockeye,Yeo
+607,2020,1,0,,Central Coast,Sockeye,Yeo
+607,2021,1,0,,Central Coast,Sockeye,Yeo
+607,2022,1,0,,Central Coast,Sockeye,Yeo
+607,2023,1,0,,Central Coast,Sockeye,Yeo
+608,2016,48,0,,Central Coast,Pink,Hecate Lowlands (even)
+608,2018,44,0,,Central Coast,Pink,Hecate Lowlands (even)
+608,2020,47,0,,Central Coast,Pink,Hecate Lowlands (even)
+608,2022,54,0,,Central Coast,Pink,Hecate Lowlands (even)
+608,2024,49,0,,Central Coast,Pink,Hecate Lowlands (even)
+609,2016,69,0,,Central Coast,Pink,Hecate Strait-Fjords (even)
+609,2018,62,0,,Central Coast,Pink,Hecate Strait-Fjords (even)
+609,2020,75,0,,Central Coast,Pink,Hecate Strait-Fjords (even)
+609,2022,69,0,,Central Coast,Pink,Hecate Strait-Fjords (even)
+609,2024,85,0,,Central Coast,Pink,Hecate Strait-Fjords (even)
+610,2015,3,0,,Central Coast,Pink,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd)
+610,2017,9,0,,Central Coast,Pink,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd)
+610,2019,7,0,,Central Coast,Pink,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd)
+610,2021,11,0,,Central Coast,Pink,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd)
+610,2023,16,0,,Central Coast,Pink,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd)
+611,2015,42,0,,Central Coast,Pink,Hecate Strait-Lowlands (odd)
+611,2017,49,0,,Central Coast,Pink,Hecate Strait-Lowlands (odd)
+611,2019,49,0,,Central Coast,Pink,Hecate Strait-Lowlands (odd)
+611,2021,55,0,,Central Coast,Pink,Hecate Strait-Lowlands (odd)
+611,2023,49,0,,Central Coast,Pink,Hecate Strait-Lowlands (odd)
+612,2015,59,0,,Central Coast,Pink,Hecate Strait-Fjords (odd)
+612,2017,53,0,,Central Coast,Pink,Hecate Strait-Fjords (odd)
+612,2019,60,0,,Central Coast,Pink,Hecate Strait-Fjords (odd)
+612,2021,67,0,,Central Coast,Pink,Hecate Strait-Fjords (odd)
+612,2023,63,0,,Central Coast,Pink,Hecate Strait-Fjords (odd)
+613,2018,1,0,,Central Coast,Sockeye,Rivers-Smith Inlets (river-type)
+613,2023,1,0,,Central Coast,Sockeye,Rivers-Smith Inlets (river-type)
+614,2015,18,2,10400.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2016,22,2,8970.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2017,13,2,3075.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2018,20,2,1815.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2019,21,2,2791.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2020,10,2,2345.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2021,20,2,4280.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2022,20,2,4800.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2023,21,2,1915.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+614,2024,10,2,5600.0,Central Coast,Sockeye,Northern Coastal Fjords (river-type)
+615,2015,5,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+615,2016,2,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+615,2017,3,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+615,2018,2,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+615,2019,3,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+615,2021,4,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+615,2022,2,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+615,2023,4,0,,Central Coast,Sockeye,Northern Coastal Streams (river-type)
+680,2015,1,0,,Central Coast,Steelhead,North Coast Winter
+680,2016,1,0,,Central Coast,Steelhead,North Coast Winter
+701,2015,44,0,,Fraser,Chum,Lower Fraser
+701,2016,39,0,,Fraser,Chum,Lower Fraser
+701,2017,15,0,,Fraser,Chum,Lower Fraser
+701,2018,19,0,,Fraser,Chum,Lower Fraser
+701,2019,31,0,,Fraser,Chum,Lower Fraser
+701,2020,15,0,,Fraser,Chum,Lower Fraser
+705,2015,1,1,352.0,Fraser,Coho,Fraser Canyon
+705,2016,1,1,1160.0,Fraser,Coho,Fraser Canyon
+705,2017,1,1,1657.0,Fraser,Coho,Fraser Canyon
+705,2018,1,1,4916.0,Fraser,Coho,Fraser Canyon
+705,2019,1,1,3259.0,Fraser,Coho,Fraser Canyon
+705,2020,1,1,5311.0,Fraser,Coho,Fraser Canyon
+705,2021,1,1,2372.0,Fraser,Coho,Fraser Canyon
+705,2022,1,1,6420.0,Fraser,Coho,Fraser Canyon
+705,2023,1,1,5790.0,Fraser,Coho,Fraser Canyon
+705,2024,1,1,10381.0,Fraser,Coho,Fraser Canyon
+707,2015,5,2,1266.0,Fraser,Coho,Lower Thompson
+707,2016,4,2,2785.0,Fraser,Coho,Lower Thompson
+707,2017,5,2,878.0,Fraser,Coho,Lower Thompson
+707,2018,7,2,643.0,Fraser,Coho,Lower Thompson
+707,2019,9,2,1701.0,Fraser,Coho,Lower Thompson
+707,2020,7,2,2407.0,Fraser,Coho,Lower Thompson
+707,2021,9,2,5112.0,Fraser,Coho,Lower Thompson
+707,2022,5,2,1493.95545059,Fraser,Coho,Lower Thompson
+707,2023,5,2,3407.0,Fraser,Coho,Lower Thompson
+707,2024,5,2,3014.0,Fraser,Coho,Lower Thompson
+708,2015,22,15,1987.0,Fraser,Coho,South Thompson
+708,2016,28,15,10801.0,Fraser,Coho,South Thompson
+708,2017,30,15,2342.0,Fraser,Coho,South Thompson
+708,2018,29,15,4333.0,Fraser,Coho,South Thompson
+708,2019,30,15,6727.0,Fraser,Coho,South Thompson
+708,2020,30,15,8051.0,Fraser,Coho,South Thompson
+708,2021,30,15,13344.0,Fraser,Coho,South Thompson
+708,2022,26,15,5659.388626589,Fraser,Coho,South Thompson
+708,2023,29,15,8133.7407407,Fraser,Coho,South Thompson
+708,2024,27,15,20116.0,Fraser,Coho,South Thompson
+709,2015,28,20,2631.0,Fraser,Coho,North Thompson
+709,2016,34,20,13616.0,Fraser,Coho,North Thompson
+709,2017,32,20,10636.0,Fraser,Coho,North Thompson
+709,2018,35,20,8804.0,Fraser,Coho,North Thompson
+709,2019,34,20,12545.0,Fraser,Coho,North Thompson
+709,2020,35,20,18626.0,Fraser,Coho,North Thompson
+709,2021,36,20,25122.0,Fraser,Coho,North Thompson
+709,2022,26,20,16953.552110041,Fraser,Coho,North Thompson
+709,2023,33,20,21807.0,Fraser,Coho,North Thompson
+709,2024,33,20,25597.0,Fraser,Coho,North Thompson
+711,2015,2,2,6710.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2016,3,2,57878.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2017,3,2,6746.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2018,3,2,2341.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2019,3,2,1438.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2020,3,2,31654.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2021,3,2,2024.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2022,3,2,3566.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2023,3,2,5474.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+711,2024,3,2,26189.0,Fraser,Sockeye,Chilliwack-Early Summer (cyclic)
+712,2015,1,1,1220.0,Fraser,Sockeye,Cultus-Late
+712,2016,1,1,2606.0,Fraser,Sockeye,Cultus-Late
+712,2017,1,1,681.0,Fraser,Sockeye,Cultus-Late
+712,2018,1,1,336.0,Fraser,Sockeye,Cultus-Late
+712,2019,1,1,87.0,Fraser,Sockeye,Cultus-Late
+712,2020,1,1,111.0,Fraser,Sockeye,Cultus-Late
+712,2021,1,1,295.0,Fraser,Sockeye,Cultus-Late
+712,2022,1,1,1041.0,Fraser,Sockeye,Cultus-Late
+712,2023,1,1,132.0,Fraser,Sockeye,Cultus-Late
+712,2024,1,1,137.0,Fraser,Sockeye,Cultus-Late
+713,2015,6,2,7071.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2016,6,2,3348.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2017,6,2,5726.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2018,6,2,1043.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2019,6,2,50.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2020,6,2,150.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2021,2,2,1856.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2022,2,2,1206.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2023,2,2,1006.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+713,2024,3,2,25.0,Fraser,Sockeye,Harrison-Downstream Migrating-Late
+714,2015,2,2,3032.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2016,3,2,300.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2017,2,2,32880.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2018,2,2,15095.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2019,3,2,1823.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2020,3,2,107.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2021,3,2,80103.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2022,3,2,93533.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2023,3,2,38493.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+714,2024,2,2,833.0,Fraser,Sockeye,Harrison-Upstream Migrating-Late
+715,2015,7,6,38060.0,Fraser,Sockeye,Pitt-Early Summer
+715,2016,8,6,57758.0,Fraser,Sockeye,Pitt-Early Summer
+715,2017,8,6,33916.0,Fraser,Sockeye,Pitt-Early Summer
+715,2018,8,6,13938.0,Fraser,Sockeye,Pitt-Early Summer
+715,2019,9,6,3500.0,Fraser,Sockeye,Pitt-Early Summer
+715,2020,9,6,6783.0,Fraser,Sockeye,Pitt-Early Summer
+715,2021,8,6,19409.0,Fraser,Sockeye,Pitt-Early Summer
+715,2022,8,6,29644.0,Fraser,Sockeye,Pitt-Early Summer
+715,2023,8,6,21593.0,Fraser,Sockeye,Pitt-Early Summer
+715,2024,8,6,14698.0,Fraser,Sockeye,Pitt-Early Summer
+716,2015,9,5,46210.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2016,9,5,37427.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2017,8,5,19739.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2018,8,5,15415.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2019,8,5,3066.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2020,9,5,6108.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2021,6,5,48076.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2022,6,5,131759.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2023,6,5,78537.0,Fraser,Sockeye,Lillooet-Harrison-Late
+716,2024,6,5,31169.0,Fraser,Sockeye,Lillooet-Harrison-Late
+718,2015,2,2,4414.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2016,2,2,1896.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2017,2,2,1928.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2018,2,2,2534.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2019,2,2,1288.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2020,2,2,2096.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2021,2,2,5997.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2022,2,2,5031.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2023,2,2,5822.0,Fraser,Sockeye,Nahatlatch-Early Summer
+718,2024,2,2,1863.0,Fraser,Sockeye,Nahatlatch-Early Summer
+719,2015,4,1,12755.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2016,3,1,4984.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2017,2,1,4561.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2018,3,1,2578.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2019,5,1,7472.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2020,3,1,6329.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2021,4,1,30439.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2022,3,1,3613.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2023,4,1,18013.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+719,2024,3,1,5481.0,Fraser,Sockeye,Anderson-Seton-Early Summer
+721,2015,1,1,662707.0,Fraser,Sockeye,Chilko-Summer
+721,2016,1,1,155687.0,Fraser,Sockeye,Chilko-Summer
+721,2017,1,1,372212.0,Fraser,Sockeye,Chilko-Summer
+721,2018,1,1,619623.0,Fraser,Sockeye,Chilko-Summer
+721,2019,1,1,169877.0,Fraser,Sockeye,Chilko-Summer
+721,2020,1,1,55490.0,Fraser,Sockeye,Chilko-Summer
+721,2021,1,1,917861.0,Fraser,Sockeye,Chilko-Summer
+721,2022,1,1,881315.0,Fraser,Sockeye,Chilko-Summer
+721,2023,1,1,345517.0,Fraser,Sockeye,Chilko-Summer
+721,2024,1,1,53326.0,Fraser,Sockeye,Chilko-Summer
+725,2015,3,1,101305.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2016,2,1,30307.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2017,2,1,91391.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2018,3,1,177252.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2019,3,1,46141.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2020,2,1,44411.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2021,3,1,117709.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2022,2,1,125931.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2023,3,1,107580.0,Fraser,Sockeye,Francois-Fraser-Summer
+725,2024,1,1,65165.0,Fraser,Sockeye,Francois-Fraser-Summer
+727,2015,2,2,34434.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2016,2,2,26632.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2017,2,2,5322.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2018,2,2,177140.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2019,2,2,23241.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2020,2,2,29345.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2021,2,2,12895.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2022,2,2,333203.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2023,2,2,111550.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+727,2024,2,2,119351.0,Fraser,Sockeye,Nadina-Francois-Early Summer
+728,2015,51,7,40029.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2016,26,7,1063.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2017,36,7,110054.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2018,43,7,789424.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2019,21,7,21068.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2020,8,7,819.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2021,44,7,94742.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2022,46,7,795698.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2023,37,7,63793.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+728,2024,16,7,9365.0,Fraser,Sockeye,Quesnel-Summer (cyclic)
+729,2015,1,1,36.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2016,1,1,41.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2017,1,1,1265.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2018,1,1,35548.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2019,1,1,520.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2020,1,1,20.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2021,1,1,2902.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2022,1,1,18367.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2023,1,1,3465.0,Fraser,Sockeye,Seton-Late (de novo)
+729,2024,1,1,328.0,Fraser,Sockeye,Seton-Late (de novo)
+731,2015,7,4,7519.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2016,5,4,7829.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2017,6,4,124914.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2018,6,4,94965.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2019,5,4,4975.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2020,5,4,3871.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2021,7,4,342152.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2022,6,4,60987.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2023,6,4,15161.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+731,2024,5,4,31847.0,Fraser,Sockeye,Takla-Trembleur-Stuart-Summer (cyclic)
+732,2015,37,26,10092.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2016,40,26,8581.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2017,40,26,15341.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2018,39,26,48379.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2019,33,26,89.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2020,31,26,30.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2021,41,26,53595.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2022,36,26,24171.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2023,41,26,9641.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+732,2024,33,26,356.0,Fraser,Sockeye,Takla-Trembleur-Early Stuart (cyclic)
+734,2015,2,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2016,1,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2017,1,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2018,2,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2020,3,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2021,2,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2022,1,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2023,1,0,,Fraser,Sockeye,Taseko-Early Summer
+734,2024,1,0,,Fraser,Sockeye,Taseko-Early Summer
+735,2015,4,1,3839.0,Fraser,Sockeye,Bowron-Early Summer
+735,2016,2,1,143.0,Fraser,Sockeye,Bowron-Early Summer
+735,2017,2,1,244.0,Fraser,Sockeye,Bowron-Early Summer
+735,2018,2,1,8190.0,Fraser,Sockeye,Bowron-Early Summer
+735,2019,1,1,20.0,Fraser,Sockeye,Bowron-Early Summer
+735,2020,2,1,344.0,Fraser,Sockeye,Bowron-Early Summer
+735,2021,2,1,2974.0,Fraser,Sockeye,Bowron-Early Summer
+735,2022,3,1,3119.0,Fraser,Sockeye,Bowron-Early Summer
+735,2023,2,1,2506.0,Fraser,Sockeye,Bowron-Early Summer
+735,2024,3,1,616.0,Fraser,Sockeye,Bowron-Early Summer
+738,2015,22,11,26975.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2016,20,11,1513.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2017,21,11,12304.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2018,22,11,489612.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2019,16,11,5147.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2020,19,11,2563.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2021,22,11,27506.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2022,18,11,162338.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2023,16,11,17492.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+738,2024,20,11,1764.0,Fraser,Sockeye,Shuswap-Early Summer (cyclic)
+739,2015,56,7,9351.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2016,18,7,49.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2017,46,7,22428.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2018,65,7,1296523.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2019,52,7,4735.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2020,9,7,27.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2021,55,7,31352.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2022,57,7,685140.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2023,53,7,7210.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+739,2024,29,7,1495.0,Fraser,Sockeye,Shuswap-Late (cyclic)
+740,2015,8,5,39428.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2016,8,5,14587.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2017,8,5,11349.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2018,6,5,6964.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2019,8,5,972.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2020,8,5,5579.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2021,7,5,4876.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2022,7,5,9576.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2023,7,5,18720.0,Fraser,Sockeye,Kamloops-Early Summer
+740,2024,5,5,21250.0,Fraser,Sockeye,Kamloops-Early Summer
+742,2015,1,1,137.0,Fraser,Sockeye,Widgeon (river-type)
+742,2016,1,1,236.0,Fraser,Sockeye,Widgeon (river-type)
+742,2017,1,1,139.0,Fraser,Sockeye,Widgeon (river-type)
+742,2018,1,1,171.0,Fraser,Sockeye,Widgeon (river-type)
+742,2019,1,1,176.0,Fraser,Sockeye,Widgeon (river-type)
+742,2020,1,1,248.0,Fraser,Sockeye,Widgeon (river-type)
+742,2021,1,1,124.0,Fraser,Sockeye,Widgeon (river-type)
+742,2022,1,1,223.0,Fraser,Sockeye,Widgeon (river-type)
+742,2023,1,1,68.0,Fraser,Sockeye,Widgeon (river-type)
+742,2024,1,1,191.0,Fraser,Sockeye,Widgeon (river-type)
+745,2015,1,1,115715.0,Fraser,Sockeye,Harrison River (river-type)
+745,2016,1,1,65758.0,Fraser,Sockeye,Harrison River (river-type)
+745,2017,1,1,49983.0,Fraser,Sockeye,Harrison River (river-type)
+745,2018,1,1,15177.0,Fraser,Sockeye,Harrison River (river-type)
+745,2019,1,1,3820.0,Fraser,Sockeye,Harrison River (river-type)
+745,2020,1,1,75537.0,Fraser,Sockeye,Harrison River (river-type)
+745,2021,1,1,56217.0,Fraser,Sockeye,Harrison River (river-type)
+745,2022,1,1,31964.0,Fraser,Sockeye,Harrison River (river-type)
+745,2023,1,1,34200.0,Fraser,Sockeye,Harrison River (river-type)
+745,2024,1,1,72852.0,Fraser,Sockeye,Harrison River (river-type)
+749,2015,8,6,770.0,Fraser,Coho,Interior Fraser
+749,2016,13,6,10531.0,Fraser,Coho,Interior Fraser
+749,2017,6,6,2946.0,Fraser,Coho,Interior Fraser
+749,2018,12,6,2753.0,Fraser,Coho,Interior Fraser
+749,2019,11,6,1900.0,Fraser,Coho,Interior Fraser
+749,2020,12,6,6403.0,Fraser,Coho,Interior Fraser
+749,2021,12,6,10458.0,Fraser,Coho,Interior Fraser
+749,2022,11,6,14055.981481399998,Fraser,Coho,Interior Fraser
+749,2023,12,6,11580.925926,Fraser,Coho,Interior Fraser
+749,2024,14,6,21717.0,Fraser,Coho,Interior Fraser
+752,2015,2,2,1420.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2016,2,2,1152.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2017,2,2,678.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2018,2,2,2430.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2019,2,2,524.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2020,2,2,981.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2021,2,2,891.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2022,2,2,5319.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2023,2,2,2144.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+752,2024,2,2,1913.0,Fraser,Sockeye,North Barriere-Early Summer (de novo)
+753,2015,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2016,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2017,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2018,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2019,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2020,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2021,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2022,1,0,,Fraser,Sockeye,Fraser-Early Summer
+753,2023,1,0,,Fraser,Sockeye,Fraser-Early Summer
+760,2015,2,1,137.0,Fraser,Sockeye,Adams-Early Summer
+760,2016,2,1,36.0,Fraser,Sockeye,Adams-Early Summer
+760,2017,2,1,4.0,Fraser,Sockeye,Adams-Early Summer
+760,2018,2,1,13318.0,Fraser,Sockeye,Adams-Early Summer
+760,2019,2,1,2.0,Fraser,Sockeye,Adams-Early Summer
+760,2020,2,1,0.0,Fraser,Sockeye,Adams-Early Summer
+760,2021,2,1,76.0,Fraser,Sockeye,Adams-Early Summer
+760,2022,2,1,551.0,Fraser,Sockeye,Adams-Early Summer
+760,2023,1,1,110.0,Fraser,Sockeye,Adams-Early Summer
+760,2024,2,1,2.0,Fraser,Sockeye,Adams-Early Summer
+761,2015,1,1,45.0,Fraser,Sockeye,Momich-Early Summer
+761,2016,2,1,4.0,Fraser,Sockeye,Momich-Early Summer
+761,2017,1,1,27.0,Fraser,Sockeye,Momich-Early Summer
+761,2018,1,1,698.0,Fraser,Sockeye,Momich-Early Summer
+761,2019,1,1,14.0,Fraser,Sockeye,Momich-Early Summer
+761,2020,1,1,27.0,Fraser,Sockeye,Momich-Early Summer
+761,2021,1,1,101.0,Fraser,Sockeye,Momich-Early Summer
+761,2022,1,1,205.0,Fraser,Sockeye,Momich-Early Summer
+761,2023,1,1,74.0,Fraser,Sockeye,Momich-Early Summer
+761,2024,1,1,13.0,Fraser,Sockeye,Momich-Early Summer
+780,2015,2,1,418.0,Fraser,Steelhead,Mid Fraser Summer
+780,2016,1,1,134.0,Fraser,Steelhead,Mid Fraser Summer
+780,2017,2,1,180.0,Fraser,Steelhead,Mid Fraser Summer
+780,2018,2,1,77.0,Fraser,Steelhead,Mid Fraser Summer
+780,2019,3,1,120.0,Fraser,Steelhead,Mid Fraser Summer
+780,2020,1,1,38.0,Fraser,Steelhead,Mid Fraser Summer
+780,2021,1,1,19.0,Fraser,Steelhead,Mid Fraser Summer
+780,2022,1,1,19.0,Fraser,Steelhead,Mid Fraser Summer
+780,2023,1,1,134.0,Fraser,Steelhead,Mid Fraser Summer
+780,2024,1,1,96.0,Fraser,Steelhead,Mid Fraser Summer
+781,2015,1,1,850.0,Fraser,Steelhead,Thompson Summer
+781,2016,1,1,360.0,Fraser,Steelhead,Thompson Summer
+781,2017,6,1,240.0,Fraser,Steelhead,Thompson Summer
+781,2018,1,1,150.0,Fraser,Steelhead,Thompson Summer
+781,2019,1,1,240.0,Fraser,Steelhead,Thompson Summer
+781,2020,1,1,257.0,Fraser,Steelhead,Thompson Summer
+781,2021,6,1,203.0,Fraser,Steelhead,Thompson Summer
+781,2022,4,1,104.0,Fraser,Steelhead,Thompson Summer
+781,2023,1,1,371.0,Fraser,Steelhead,Thompson Summer
+781,2024,4,1,186.0,Fraser,Steelhead,Thompson Summer
+801,2015,38,27,55600.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2016,37,27,39640.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2017,35,27,25580.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2018,39,27,55293.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2019,32,27,15097.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2020,31,27,6148.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2021,31,27,9263.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2022,33,27,28510.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2023,33,27,14069.0,Haida Gwaii,Chum,East Haida Gwaii
+801,2024,34,27,11775.0,Haida Gwaii,Chum,East Haida Gwaii
+802,2015,2,0,,Haida Gwaii,Chum,North Haida Gwaii
+802,2016,2,0,,Haida Gwaii,Chum,North Haida Gwaii
+802,2017,2,0,,Haida Gwaii,Chum,North Haida Gwaii
+802,2018,2,0,,Haida Gwaii,Chum,North Haida Gwaii
+802,2019,2,0,,Haida Gwaii,Chum,North Haida Gwaii
+802,2022,1,0,,Haida Gwaii,Chum,North Haida Gwaii
+802,2023,2,0,,Haida Gwaii,Chum,North Haida Gwaii
+802,2024,1,0,,Haida Gwaii,Chum,North Haida Gwaii
+803,2015,11,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2016,18,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2017,23,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2018,21,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2019,25,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2020,23,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2021,1,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2022,20,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2023,23,0,,Haida Gwaii,Chum,West Haida Gwaii
+803,2024,4,0,,Haida Gwaii,Chum,West Haida Gwaii
+804,2015,19,1,7000.0,Haida Gwaii,Chum,Skidegate
+804,2016,18,1,5500.0,Haida Gwaii,Chum,Skidegate
+804,2017,13,1,9000.0,Haida Gwaii,Chum,Skidegate
+804,2018,12,1,6000.0,Haida Gwaii,Chum,Skidegate
+804,2019,12,1,8000.0,Haida Gwaii,Chum,Skidegate
+804,2020,9,1,5500.0,Haida Gwaii,Chum,Skidegate
+804,2021,4,1,1200.0,Haida Gwaii,Chum,Skidegate
+804,2022,11,1,16000.0,Haida Gwaii,Chum,Skidegate
+804,2023,12,1,3830.0,Haida Gwaii,Chum,Skidegate
+804,2024,3,1,1000.0,Haida Gwaii,Chum,Skidegate
+807,2015,8,2,1400.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2016,13,2,860.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2017,16,2,750.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2018,12,2,230.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2019,12,2,80.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2020,14,2,250.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2021,7,2,160.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2022,8,2,320.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2023,14,2,180.0,Haida Gwaii,Coho,East Haida Gwaii
+807,2024,13,2,450.0,Haida Gwaii,Coho,East Haida Gwaii
+808,2015,1,0,,Haida Gwaii,Coho,West Haida Gwaii
+808,2016,1,0,,Haida Gwaii,Coho,West Haida Gwaii
+808,2017,10,0,,Haida Gwaii,Coho,West Haida Gwaii
+808,2018,14,0,,Haida Gwaii,Coho,West Haida Gwaii
+808,2019,7,0,,Haida Gwaii,Coho,West Haida Gwaii
+808,2020,10,0,,Haida Gwaii,Coho,West Haida Gwaii
+808,2022,14,0,,Haida Gwaii,Coho,West Haida Gwaii
+808,2023,15,0,,Haida Gwaii,Coho,West Haida Gwaii
+809,2015,1,0,,Haida Gwaii,Coho,Haida Gwaii-Graham Island Lowlands
+809,2016,1,0,,Haida Gwaii,Coho,Haida Gwaii-Graham Island Lowlands
+809,2017,1,0,,Haida Gwaii,Coho,Haida Gwaii-Graham Island Lowlands
+809,2018,1,0,,Haida Gwaii,Coho,Haida Gwaii-Graham Island Lowlands
+809,2019,1,0,,Haida Gwaii,Coho,Haida Gwaii-Graham Island Lowlands
+810,2016,1,0,,Haida Gwaii,Pink,North Haida Gwaii (even)
+810,2018,4,0,,Haida Gwaii,Pink,North Haida Gwaii (even)
+810,2020,6,0,,Haida Gwaii,Pink,North Haida Gwaii (even)
+810,2022,4,0,,Haida Gwaii,Pink,North Haida Gwaii (even)
+810,2024,5,0,,Haida Gwaii,Pink,North Haida Gwaii (even)
+811,2016,30,0,,Haida Gwaii,Pink,East Haida Gwaii (even)
+811,2018,28,0,,Haida Gwaii,Pink,East Haida Gwaii (even)
+811,2020,26,0,,Haida Gwaii,Pink,East Haida Gwaii (even)
+811,2022,33,0,,Haida Gwaii,Pink,East Haida Gwaii (even)
+811,2024,39,0,,Haida Gwaii,Pink,East Haida Gwaii (even)
+812,2016,3,0,,Haida Gwaii,Pink,West Haida Gwaii (even)
+812,2018,7,0,,Haida Gwaii,Pink,West Haida Gwaii (even)
+812,2020,11,0,,Haida Gwaii,Pink,West Haida Gwaii (even)
+812,2022,8,0,,Haida Gwaii,Pink,West Haida Gwaii (even)
+812,2024,4,0,,Haida Gwaii,Pink,West Haida Gwaii (even)
+813,2015,3,0,,Haida Gwaii,Pink,East Haida Gwaii (odd)
+813,2017,3,0,,Haida Gwaii,Pink,East Haida Gwaii (odd)
+813,2019,3,0,,Haida Gwaii,Pink,East Haida Gwaii (odd)
+813,2021,2,0,,Haida Gwaii,Pink,East Haida Gwaii (odd)
+813,2023,3,0,,Haida Gwaii,Pink,East Haida Gwaii (odd)
+816,2018,1,0,,Haida Gwaii,Sockeye,East Haida Gwaii (river-type)
+818,2017,2,0,,Haida Gwaii,Sockeye,West Haida Gwaii (river-type)
+818,2018,1,0,,Haida Gwaii,Sockeye,West Haida Gwaii (river-type)
+820,2015,1,1,3300.0,Haida Gwaii,Sockeye,Awun
+820,2016,1,1,2600.0,Haida Gwaii,Sockeye,Awun
+820,2017,1,1,4000.0,Haida Gwaii,Sockeye,Awun
+820,2018,1,1,2300.0,Haida Gwaii,Sockeye,Awun
+820,2019,1,1,2700.0,Haida Gwaii,Sockeye,Awun
+820,2020,1,1,4400.0,Haida Gwaii,Sockeye,Awun
+820,2021,1,1,3900.0,Haida Gwaii,Sockeye,Awun
+820,2022,1,1,8100.0,Haida Gwaii,Sockeye,Awun
+820,2023,1,1,2500.0,Haida Gwaii,Sockeye,Awun
+820,2024,1,1,7300.0,Haida Gwaii,Sockeye,Awun
+821,2020,1,0,,Haida Gwaii,Sockeye,Fairfax
+823,2015,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2016,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2017,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2018,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2019,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2020,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2021,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2022,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+823,2023,1,0,,Haida Gwaii,Sockeye,Marian/Eden
+824,2015,1,0,,Haida Gwaii,Sockeye,Mathers
+824,2016,1,0,,Haida Gwaii,Sockeye,Mathers
+825,2015,1,0,,Haida Gwaii,Sockeye,Mercer
+825,2016,1,0,,Haida Gwaii,Sockeye,Mercer
+825,2017,1,0,,Haida Gwaii,Sockeye,Mercer
+825,2018,1,0,,Haida Gwaii,Sockeye,Mercer
+826,2015,1,1,25500.0,Haida Gwaii,Sockeye,Skidegate
+826,2016,1,1,15000.0,Haida Gwaii,Sockeye,Skidegate
+826,2017,1,1,12000.0,Haida Gwaii,Sockeye,Skidegate
+826,2018,1,1,12000.0,Haida Gwaii,Sockeye,Skidegate
+826,2019,1,1,12000.0,Haida Gwaii,Sockeye,Skidegate
+826,2020,1,1,7500.0,Haida Gwaii,Sockeye,Skidegate
+826,2021,1,1,13500.0,Haida Gwaii,Sockeye,Skidegate
+826,2022,1,1,12500.0,Haida Gwaii,Sockeye,Skidegate
+826,2023,1,1,14500.0,Haida Gwaii,Sockeye,Skidegate
+826,2024,1,1,12251.0,Haida Gwaii,Sockeye,Skidegate
+827,2015,1,1,3200.0,Haida Gwaii,Sockeye,Yakoun
+827,2016,1,1,3000.0,Haida Gwaii,Sockeye,Yakoun
+827,2017,1,1,7000.0,Haida Gwaii,Sockeye,Yakoun
+827,2018,1,1,1500.0,Haida Gwaii,Sockeye,Yakoun
+827,2019,1,1,2200.0,Haida Gwaii,Sockeye,Yakoun
+827,2020,1,1,3100.0,Haida Gwaii,Sockeye,Yakoun
+827,2021,1,1,1300.0,Haida Gwaii,Sockeye,Yakoun
+827,2022,1,1,9200.0,Haida Gwaii,Sockeye,Yakoun
+827,2023,1,1,26600.0,Haida Gwaii,Sockeye,Yakoun
+827,2024,1,1,17000.0,Haida Gwaii,Sockeye,Yakoun
+900,2015,6,3,39095.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2016,6,3,12400.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2017,6,3,2008.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2018,7,3,5258.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2019,8,3,820.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2020,5,3,149.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2021,12,3,1219.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2022,12,3,382.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2023,13,3,374.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+900,2024,12,3,12097.0,East Vancouver Island & Mainland Inlets,Chum,Southern Coastal Streams
+901,2015,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2016,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2017,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2018,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2019,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2020,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2021,3,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2022,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+901,2023,1,0,,East Vancouver Island & Mainland Inlets,Chum,Bute Inlet
+902,2015,9,3,2781.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2016,10,3,3290.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2017,5,3,1597.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2018,6,3,1563.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2019,4,3,600.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2020,9,3,2723.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2021,11,3,708.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2022,10,3,1059.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2023,9,3,4391.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+902,2024,11,3,3553.0,East Vancouver Island & Mainland Inlets,Chum,Loughborough
+903,2015,4,2,528.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2016,4,2,770.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2017,3,2,308.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2018,5,2,90.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2019,2,2,608.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2020,3,2,113.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2021,3,2,8.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2022,3,2,25.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2023,4,2,25.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+903,2024,4,2,3.0,East Vancouver Island & Mainland Inlets,Chum,Northeast Vancouver Island
+904,2015,37,23,462625.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2016,32,23,1143971.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2017,41,23,536789.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2018,44,23,492803.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2019,44,23,197285.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2020,47,23,386062.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2021,44,23,130830.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2022,47,23,248022.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2023,45,23,136314.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+904,2024,47,23,743336.0,East Vancouver Island & Mainland Inlets,Chum,Georgia Strait
+905,2015,1,0,,East Vancouver Island & Mainland Inlets,Chum,Howe Sound-Burrard Inlet
+905,2016,1,0,,East Vancouver Island & Mainland Inlets,Chum,Howe Sound-Burrard Inlet
+905,2020,3,0,,East Vancouver Island & Mainland Inlets,Chum,Howe Sound-Burrard Inlet
+905,2021,1,0,,East Vancouver Island & Mainland Inlets,Chum,Howe Sound-Burrard Inlet
+905,2022,2,0,,East Vancouver Island & Mainland Inlets,Chum,Howe Sound-Burrard Inlet
+905,2024,3,0,,East Vancouver Island & Mainland Inlets,Chum,Howe Sound-Burrard Inlet
+907,2018,1,0,,East Vancouver Island & Mainland Inlets,Coho,Howe Sound-Burrard Inlet
+907,2019,1,0,,East Vancouver Island & Mainland Inlets,Coho,Howe Sound-Burrard Inlet
+907,2020,3,0,,East Vancouver Island & Mainland Inlets,Coho,Howe Sound-Burrard Inlet
+907,2021,1,0,,East Vancouver Island & Mainland Inlets,Coho,Howe Sound-Burrard Inlet
+907,2022,2,0,,East Vancouver Island & Mainland Inlets,Coho,Howe Sound-Burrard Inlet
+907,2023,5,0,,East Vancouver Island & Mainland Inlets,Coho,Howe Sound-Burrard Inlet
+907,2024,3,0,,East Vancouver Island & Mainland Inlets,Coho,Howe Sound-Burrard Inlet
+908,2015,6,4,3174.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2016,9,4,2252.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2017,12,4,1960.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2018,15,4,4926.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2019,11,4,4599.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2020,10,4,2922.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2021,12,4,6655.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2022,12,4,4979.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2023,14,4,10602.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+908,2024,13,4,16720.0,East Vancouver Island & Mainland Inlets,Coho,Georgia Strait Mainland
+909,2015,9,3,4287.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2016,10,3,563.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2017,10,3,1039.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2018,12,3,293.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2019,11,3,340.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2020,15,3,337.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2021,26,3,379.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2022,23,3,677.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2023,25,3,1165.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+909,2024,22,3,769.0,East Vancouver Island & Mainland Inlets,Coho,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+910,2015,23,11,29631.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2016,18,11,38098.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2017,21,11,28155.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2018,26,11,46437.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2019,30,11,33260.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2020,29,11,54515.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2021,29,11,56912.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2022,32,11,50692.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2023,32,11,51879.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+910,2024,32,11,86286.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Georgia Strait
+911,2015,6,4,2193.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2016,6,4,1247.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2017,5,4,9595.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2018,6,4,5423.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2019,5,4,2528.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2020,5,4,6840.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2021,4,4,7514.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2022,4,4,10572.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2023,5,4,6964.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+911,2024,4,4,6974.0,East Vancouver Island & Mainland Inlets,Coho,East Vancouver Island-Johnstone Strait-Southern Fjords
+912,2015,4,3,1560.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2016,4,3,1752.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2017,4,3,3643.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2018,5,3,1543.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2019,4,3,2894.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2020,5,3,1665.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2021,3,3,2399.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2022,4,3,2488.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2023,4,3,2613.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+912,2024,5,3,2083.0,East Vancouver Island & Mainland Inlets,Coho,Nahwitti Lowland
+913,2015,8,4,7004.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2016,7,4,8763.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2017,7,4,8797.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2018,9,4,17551.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2019,13,4,3734.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2020,13,4,7585.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2021,11,4,6680.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2022,14,4,3681.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2023,11,4,5191.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+913,2024,12,4,4952.0,West Vancouver Island,Coho,Juan de Fuca-Pachena
+914,2015,31,12,21540.0,West Vancouver Island,Coho,West Vancouver Island
+914,2016,29,12,19765.0,West Vancouver Island,Coho,West Vancouver Island
+914,2017,28,12,23453.0,West Vancouver Island,Coho,West Vancouver Island
+914,2018,31,12,25457.0,West Vancouver Island,Coho,West Vancouver Island
+914,2019,31,12,9974.0,West Vancouver Island,Coho,West Vancouver Island
+914,2020,37,12,15618.0,West Vancouver Island,Coho,West Vancouver Island
+914,2021,31,12,31783.0,West Vancouver Island,Coho,West Vancouver Island
+914,2022,30,12,21600.0,West Vancouver Island,Coho,West Vancouver Island
+914,2023,27,12,15783.0,West Vancouver Island,Coho,West Vancouver Island
+914,2024,26,12,14120.0,West Vancouver Island,Coho,West Vancouver Island
+915,2015,13,6,3102.0,West Vancouver Island,Coho,Clayoquot
+915,2016,15,6,7228.0,West Vancouver Island,Coho,Clayoquot
+915,2017,14,6,4438.0,West Vancouver Island,Coho,Clayoquot
+915,2018,16,6,4472.0,West Vancouver Island,Coho,Clayoquot
+915,2019,9,6,2547.0,West Vancouver Island,Coho,Clayoquot
+915,2020,18,6,3386.0,West Vancouver Island,Coho,Clayoquot
+915,2021,19,6,4988.0,West Vancouver Island,Coho,Clayoquot
+915,2022,19,6,4337.0,West Vancouver Island,Coho,Clayoquot
+915,2023,15,6,3349.0,West Vancouver Island,Coho,Clayoquot
+915,2024,21,6,3296.0,West Vancouver Island,Coho,Clayoquot
+916,2021,2,0,,East Vancouver Island & Mainland Inlets,Coho,Homathko-Klinaklini Rivers
+917,2016,12,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (even)
+917,2018,16,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (even)
+917,2020,18,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (even)
+917,2022,19,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (even)
+917,2024,25,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (even)
+918,2016,14,0,,West Vancouver Island,Pink,West Vancouver Island (even)
+918,2018,10,0,,West Vancouver Island,Pink,West Vancouver Island (even)
+918,2020,14,0,,West Vancouver Island,Pink,West Vancouver Island (even)
+918,2022,25,0,,West Vancouver Island,Pink,West Vancouver Island (even)
+918,2024,19,0,,West Vancouver Island,Pink,West Vancouver Island (even)
+919,2016,3,0,,West Vancouver Island,Pink,Northwest Vancouver Island (even)
+919,2018,3,0,,West Vancouver Island,Pink,Northwest Vancouver Island (even)
+919,2020,3,0,,West Vancouver Island,Pink,Northwest Vancouver Island (even)
+919,2022,3,0,,West Vancouver Island,Pink,Northwest Vancouver Island (even)
+919,2024,3,0,,West Vancouver Island,Pink,Northwest Vancouver Island (even)
+920,2016,19,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (even)
+920,2018,15,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (even)
+920,2020,20,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (even)
+920,2022,25,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (even)
+920,2024,27,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (even)
+921,2015,1,0,,East Vancouver Island & Mainland Inlets,Pink,East Howe Sound-Burrard Inlet (odd)
+921,2019,1,0,,East Vancouver Island & Mainland Inlets,Pink,East Howe Sound-Burrard Inlet (odd)
+921,2021,1,0,,East Vancouver Island & Mainland Inlets,Pink,East Howe Sound-Burrard Inlet (odd)
+921,2023,1,0,,East Vancouver Island & Mainland Inlets,Pink,East Howe Sound-Burrard Inlet (odd)
+922,2015,27,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (odd)
+922,2017,25,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (odd)
+922,2019,22,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (odd)
+922,2021,29,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (odd)
+922,2023,44,0,,East Vancouver Island & Mainland Inlets,Pink,Georgia Strait (odd)
+923,2015,4,0,,East Vancouver Island & Mainland Inlets,Pink,East Vancouver Island-Johnstone Strait (odd)
+923,2017,3,0,,East Vancouver Island & Mainland Inlets,Pink,East Vancouver Island-Johnstone Strait (odd)
+923,2019,3,0,,East Vancouver Island & Mainland Inlets,Pink,East Vancouver Island-Johnstone Strait (odd)
+923,2021,3,0,,East Vancouver Island & Mainland Inlets,Pink,East Vancouver Island-Johnstone Strait (odd)
+923,2023,4,0,,East Vancouver Island & Mainland Inlets,Pink,East Vancouver Island-Johnstone Strait (odd)
+924,2015,4,0,,East Vancouver Island & Mainland Inlets,Pink,Nahwitti (odd)
+924,2017,1,0,,East Vancouver Island & Mainland Inlets,Pink,Nahwitti (odd)
+924,2019,4,0,,East Vancouver Island & Mainland Inlets,Pink,Nahwitti (odd)
+924,2021,3,0,,East Vancouver Island & Mainland Inlets,Pink,Nahwitti (odd)
+924,2023,4,0,,East Vancouver Island & Mainland Inlets,Pink,Nahwitti (odd)
+925,2015,15,0,,West Vancouver Island,Pink,West Vancouver Island (odd)
+925,2017,15,0,,West Vancouver Island,Pink,West Vancouver Island (odd)
+925,2019,20,0,,West Vancouver Island,Pink,West Vancouver Island (odd)
+925,2021,22,0,,West Vancouver Island,Pink,West Vancouver Island (odd)
+925,2023,18,0,,West Vancouver Island,Pink,West Vancouver Island (odd)
+926,2015,10,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (odd)
+926,2017,9,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (odd)
+926,2019,7,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (odd)
+926,2021,19,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (odd)
+926,2023,20,0,,East Vancouver Island & Mainland Inlets,Pink,Southern Fjords (odd)
+927,2019,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Fulmore
+927,2021,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Fulmore
+927,2022,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Fulmore
+927,2023,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Fulmore
+927,2024,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Fulmore
+928,2018,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Heydon
+928,2019,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Heydon
+928,2021,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Heydon
+928,2022,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Heydon
+928,2023,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Heydon
+929,2021,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Kakweiken
+929,2023,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Kakweiken
+930,2024,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Loose
+932,2015,2,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2016,2,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2017,2,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2018,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2019,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2020,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2021,2,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2022,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2023,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+932,2024,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Phillips
+933,2015,1,1,721.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2016,1,1,172.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2017,1,1,12.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2018,1,1,3.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2019,1,1,13.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2020,1,1,85.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2021,1,1,26.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2022,1,1,213.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2023,1,1,121.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+933,2024,1,1,183.0,East Vancouver Island & Mainland Inlets,Sockeye,Sakinaw
+937,2015,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Ida-Bonanza
+937,2016,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Ida-Bonanza
+937,2018,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Ida-Bonanza
+939,2015,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+939,2016,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+939,2017,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+939,2018,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+939,2019,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+939,2020,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+939,2023,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+939,2024,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Nimpkish
+941,2015,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Quatse
+941,2016,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Quatse
+941,2017,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Quatse
+941,2023,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Quatse
+945,2015,1,0,,West Vancouver Island,Sockeye,Alice
+945,2016,1,0,,West Vancouver Island,Sockeye,Alice
+945,2018,1,0,,West Vancouver Island,Sockeye,Alice
+945,2019,1,0,,West Vancouver Island,Sockeye,Alice
+945,2020,1,0,,West Vancouver Island,Sockeye,Alice
+945,2021,1,0,,West Vancouver Island,Sockeye,Alice
+945,2022,1,0,,West Vancouver Island,Sockeye,Alice
+945,2023,1,0,,West Vancouver Island,Sockeye,Alice
+948,2018,1,0,,West Vancouver Island,Sockeye,Cheewat
+949,2018,1,0,,West Vancouver Island,Sockeye,Clayoquot
+949,2021,1,0,,West Vancouver Island,Sockeye,Clayoquot
+949,2022,1,0,,West Vancouver Island,Sockeye,Clayoquot
+949,2023,1,0,,West Vancouver Island,Sockeye,Clayoquot
+951,2015,2,1,1267.0,West Vancouver Island,Sockeye,Fairy
+951,2016,1,1,6.0,West Vancouver Island,Sockeye,Fairy
+951,2017,2,1,43.0,West Vancouver Island,Sockeye,Fairy
+951,2018,1,1,13.0,West Vancouver Island,Sockeye,Fairy
+951,2019,2,1,0.0,West Vancouver Island,Sockeye,Fairy
+951,2020,2,1,0.0,West Vancouver Island,Sockeye,Fairy
+951,2021,1,1,1.0,West Vancouver Island,Sockeye,Fairy
+951,2022,2,1,9.0,West Vancouver Island,Sockeye,Fairy
+951,2023,2,1,40.0,West Vancouver Island,Sockeye,Fairy
+951,2024,2,1,20.0,West Vancouver Island,Sockeye,Fairy
+952,2015,1,0,,West Vancouver Island,Sockeye,Great Central
+952,2016,1,0,,West Vancouver Island,Sockeye,Great Central
+952,2017,1,0,,West Vancouver Island,Sockeye,Great Central
+952,2018,1,0,,West Vancouver Island,Sockeye,Great Central
+952,2019,1,0,,West Vancouver Island,Sockeye,Great Central
+952,2020,1,0,,West Vancouver Island,Sockeye,Great Central
+952,2021,1,0,,West Vancouver Island,Sockeye,Great Central
+952,2022,1,0,,West Vancouver Island,Sockeye,Great Central
+953,2015,1,1,1991.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2016,1,1,9717.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2017,1,1,22906.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2018,1,1,12216.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2019,1,1,5845.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2020,1,1,4043.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2021,1,1,13393.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2022,1,1,18670.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2023,1,1,13113.0,West Vancouver Island,Sockeye,Hucuktlis
+953,2024,1,1,3452.0,West Vancouver Island,Sockeye,Hucuktlis
+955,2015,1,0,,West Vancouver Island,Sockeye,Hobiton
+955,2019,1,0,,West Vancouver Island,Sockeye,Hobiton
+955,2020,1,0,,West Vancouver Island,Sockeye,Hobiton
+955,2022,1,0,,West Vancouver Island,Sockeye,Hobiton
+956,2015,1,0,,West Vancouver Island,Sockeye,Jansen
+956,2016,1,0,,West Vancouver Island,Sockeye,Jansen
+956,2017,1,0,,West Vancouver Island,Sockeye,Jansen
+956,2018,1,0,,West Vancouver Island,Sockeye,Jansen
+958,2015,3,0,,West Vancouver Island,Sockeye,Kennedy
+958,2016,1,0,,West Vancouver Island,Sockeye,Kennedy
+958,2017,3,0,,West Vancouver Island,Sockeye,Kennedy
+958,2018,2,0,,West Vancouver Island,Sockeye,Kennedy
+958,2019,2,0,,West Vancouver Island,Sockeye,Kennedy
+958,2020,1,0,,West Vancouver Island,Sockeye,Kennedy
+958,2021,1,0,,West Vancouver Island,Sockeye,Kennedy
+958,2022,2,0,,West Vancouver Island,Sockeye,Kennedy
+958,2023,2,0,,West Vancouver Island,Sockeye,Kennedy
+958,2024,1,0,,West Vancouver Island,Sockeye,Kennedy
+960,2015,1,0,,West Vancouver Island,Sockeye,Megin
+960,2017,1,0,,West Vancouver Island,Sockeye,Megin
+960,2018,1,0,,West Vancouver Island,Sockeye,Megin
+960,2019,1,0,,West Vancouver Island,Sockeye,Megin
+960,2020,1,0,,West Vancouver Island,Sockeye,Megin
+960,2021,1,0,,West Vancouver Island,Sockeye,Megin
+960,2022,1,0,,West Vancouver Island,Sockeye,Megin
+960,2023,1,0,,West Vancouver Island,Sockeye,Megin
+960,2024,1,0,,West Vancouver Island,Sockeye,Megin
+961,2015,1,0,,West Vancouver Island,Sockeye,Muchalat
+961,2016,2,0,,West Vancouver Island,Sockeye,Muchalat
+961,2017,1,0,,West Vancouver Island,Sockeye,Muchalat
+961,2019,3,0,,West Vancouver Island,Sockeye,Muchalat
+961,2020,2,0,,West Vancouver Island,Sockeye,Muchalat
+961,2021,3,0,,West Vancouver Island,Sockeye,Muchalat
+961,2022,3,0,,West Vancouver Island,Sockeye,Muchalat
+961,2023,1,0,,West Vancouver Island,Sockeye,Muchalat
+961,2024,1,0,,West Vancouver Island,Sockeye,Muchalat
+962,2017,1,0,,West Vancouver Island,Sockeye,Muriel
+962,2020,1,0,,West Vancouver Island,Sockeye,Muriel
+962,2021,1,0,,West Vancouver Island,Sockeye,Muriel
+962,2023,1,0,,West Vancouver Island,Sockeye,Muriel
+962,2024,1,0,,West Vancouver Island,Sockeye,Muriel
+963,2015,1,1,2151.0,West Vancouver Island,Sockeye,Nitinat
+963,2016,1,1,430.0,West Vancouver Island,Sockeye,Nitinat
+963,2017,1,1,216.0,West Vancouver Island,Sockeye,Nitinat
+963,2018,1,1,38.0,West Vancouver Island,Sockeye,Nitinat
+963,2019,2,1,43.0,West Vancouver Island,Sockeye,Nitinat
+963,2020,1,1,9.0,West Vancouver Island,Sockeye,Nitinat
+963,2021,1,1,277.0,West Vancouver Island,Sockeye,Nitinat
+963,2022,1,1,44.0,West Vancouver Island,Sockeye,Nitinat
+963,2023,1,1,519.0,West Vancouver Island,Sockeye,Nitinat
+963,2024,1,1,453.0,West Vancouver Island,Sockeye,Nitinat
+966,2015,1,0,,West Vancouver Island,Sockeye,Park River
+966,2016,1,0,,West Vancouver Island,Sockeye,Park River
+966,2021,1,0,,West Vancouver Island,Sockeye,Park River
+967,2017,1,0,,West Vancouver Island,Sockeye,Power
+967,2018,1,0,,West Vancouver Island,Sockeye,Power
+967,2019,1,0,,West Vancouver Island,Sockeye,Power
+967,2020,1,0,,West Vancouver Island,Sockeye,Power
+969,2015,1,0,,West Vancouver Island,Sockeye,Sproat
+969,2016,1,0,,West Vancouver Island,Sockeye,Sproat
+969,2017,1,0,,West Vancouver Island,Sockeye,Sproat
+969,2018,1,0,,West Vancouver Island,Sockeye,Sproat
+969,2019,1,0,,West Vancouver Island,Sockeye,Sproat
+969,2020,1,0,,West Vancouver Island,Sockeye,Sproat
+969,2021,1,0,,West Vancouver Island,Sockeye,Sproat
+969,2022,1,0,,West Vancouver Island,Sockeye,Sproat
+971,2015,2,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+971,2017,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+971,2018,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+971,2020,1,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+971,2021,7,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+971,2022,9,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+971,2023,6,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+971,2024,4,0,,East Vancouver Island & Mainland Inlets,Sockeye,Southern Fjords (river-type)
+972,2015,22,15,9255.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2016,25,15,10516.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2017,21,15,2267.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2018,22,15,2535.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2019,26,15,621.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2020,29,15,2874.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2021,25,15,6014.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2022,28,15,3405.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2023,24,15,2914.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+972,2024,27,15,1948.0,West Vancouver Island,Sockeye,West Vancouver Island (river-type)
+973,2015,9,3,190.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2016,7,3,23.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2017,7,3,41.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2018,10,3,88.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2019,8,3,15.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2020,11,3,3.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2021,10,3,33.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2022,13,3,60.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2023,12,3,17.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+973,2024,11,3,21.0,East Vancouver Island & Mainland Inlets,Sockeye,East Vancouver Island & Georgia Strait (river-type)
+974,2016,2,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+974,2018,2,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+974,2019,2,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+974,2020,3,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+974,2021,2,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+974,2022,2,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+974,2023,2,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+974,2024,2,0,,West Vancouver Island,Sockeye,NW Vancouver Island (river-type)
+977,2015,3,2,8208.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2016,3,2,3120.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2017,2,2,13526.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2018,5,2,4739.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2019,3,2,2889.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2020,5,2,6282.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2021,4,2,3089.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2022,3,2,1909.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2023,3,2,5664.0,West Vancouver Island,Chum,Northwest Vancouver Island
+977,2024,4,2,7054.0,West Vancouver Island,Chum,Northwest Vancouver Island
+978,2015,55,21,394035.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2016,51,21,743422.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2017,47,21,202863.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2018,50,21,184566.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2019,54,21,75083.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2020,68,21,234777.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2021,60,21,129305.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2022,62,21,108904.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2023,53,21,124071.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+978,2024,58,21,476564.0,West Vancouver Island,Chum,Southwest & West Vancouver Island
+979,2019,1,0,,East Vancouver Island & Mainland Inlets,Chum,Upper Knight
+979,2020,1,0,,East Vancouver Island & Mainland Inlets,Chum,Upper Knight
+979,2021,1,0,,East Vancouver Island & Mainland Inlets,Chum,Upper Knight
+979,2022,1,0,,East Vancouver Island & Mainland Inlets,Chum,Upper Knight
+979,2023,1,0,,East Vancouver Island & Mainland Inlets,Chum,Upper Knight
+979,2024,1,0,,East Vancouver Island & Mainland Inlets,Chum,Upper Knight
+980,2015,1,0,,East Vancouver Island & Mainland Inlets,Steelhead,South Coast Winter
+980,2016,1,0,,East Vancouver Island & Mainland Inlets,Steelhead,South Coast Winter
+980,2017,1,0,,East Vancouver Island & Mainland Inlets,Steelhead,South Coast Winter
+980,2018,1,0,,East Vancouver Island & Mainland Inlets,Steelhead,South Coast Winter
+980,2019,1,0,,East Vancouver Island & Mainland Inlets,Steelhead,South Coast Winter
+980,2020,1,0,,East Vancouver Island & Mainland Inlets,Steelhead,South Coast Winter
+981,2015,3,1,330.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2016,3,1,278.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2017,3,1,138.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2018,2,1,58.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2019,3,1,135.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2020,2,1,57.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2021,2,1,61.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2022,2,1,54.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2023,2,1,83.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+981,2024,1,1,216.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Winter
+984,2015,2,2,318.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2016,2,2,602.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2017,2,2,438.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2018,3,2,305.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2019,3,2,110.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2020,3,2,254.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2021,3,2,157.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2022,3,2,561.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2023,3,2,202.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+984,2024,2,2,699.0,West Vancouver Island,Steelhead,West Vancouver Island Summer
+985,2015,1,1,122.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2016,1,1,214.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2017,1,1,141.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2018,1,1,64.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2019,1,1,126.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2020,1,1,78.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2021,1,1,67.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2022,1,1,37.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2023,1,1,132.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+985,2024,1,1,88.0,East Vancouver Island & Mainland Inlets,Steelhead,East Vancouver Island Summer
+1001,2015,1,1,95.0,Northern Transboundary,Chum,Taku
+1001,2016,1,1,66.0,Northern Transboundary,Chum,Taku
+1001,2017,1,1,236.0,Northern Transboundary,Chum,Taku
+1001,2018,1,1,32.0,Northern Transboundary,Chum,Taku
+1001,2019,1,1,118.0,Northern Transboundary,Chum,Taku
+1001,2020,1,1,44.0,Northern Transboundary,Chum,Taku
+1001,2021,1,1,29.0,Northern Transboundary,Chum,Taku
+1001,2022,1,1,150.0,Northern Transboundary,Chum,Taku
+1001,2023,1,1,61.0,Northern Transboundary,Chum,Taku
+1001,2024,1,1,34.0,Northern Transboundary,Chum,Taku
+1004,2015,1,1,1388.0,Northern Transboundary,Chinook,Alsek
+1004,2016,1,1,646.0,Northern Transboundary,Chinook,Alsek
+1004,2017,1,1,443.0,Northern Transboundary,Chinook,Alsek
+1004,2018,1,1,1087.0,Northern Transboundary,Chinook,Alsek
+1004,2019,1,1,1573.0,Northern Transboundary,Chinook,Alsek
+1004,2020,1,1,1316.0,Northern Transboundary,Chinook,Alsek
+1004,2021,1,1,1380.0,Northern Transboundary,Chinook,Alsek
+1004,2022,1,1,934.0,Northern Transboundary,Chinook,Alsek
+1004,2023,1,1,1053.0,Northern Transboundary,Chinook,Alsek
+1004,2024,1,1,1343.0,Northern Transboundary,Chinook,Alsek
+1006,2015,2,2,901.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2016,3,2,535.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2017,3,2,171.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2018,3,2,631.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2019,3,2,1231.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2020,3,2,505.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2021,3,2,245.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2022,3,2,543.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2023,3,2,865.0,Northern Transboundary,Chinook,Taku-Early Timing
+1006,2024,2,2,1127.0,Northern Transboundary,Chinook,Taku-Early Timing
+1007,2015,1,1,1340.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2016,1,1,800.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2017,1,1,301.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2018,1,1,765.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2019,1,1,1070.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2020,1,1,1249.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2021,1,1,1034.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2022,1,1,1263.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2023,1,1,1542.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1007,2024,1,1,2830.0,Northern Transboundary,Chinook,Taku-Mid Timing
+1008,2015,4,2,1056.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2016,4,2,395.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2017,4,2,451.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2018,4,2,323.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2019,4,2,691.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2020,4,2,895.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2021,4,2,902.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2022,4,2,952.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2023,4,2,1121.0,Northern Transboundary,Chinook,Taku-Late Timing
+1008,2024,2,2,1633.0,Northern Transboundary,Chinook,Taku-Late Timing
+1010,2015,3,1,450.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2016,3,1,921.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2017,1,1,492.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2018,2,1,453.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2019,2,1,536.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2020,1,1,347.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2021,3,1,987.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2022,2,1,677.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2023,1,1,363.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1010,2024,2,1,382.0,Northern Transboundary,Chinook,Stikine-Early Timing
+1011,2015,1,0,,Northern Transboundary,Chinook,Stikine-Late Timing
+1011,2016,1,0,,Northern Transboundary,Chinook,Stikine-Late Timing
+1011,2017,1,0,,Northern Transboundary,Chinook,Stikine-Late Timing
+1011,2018,1,0,,Northern Transboundary,Chinook,Stikine-Late Timing
+1011,2019,1,0,,Northern Transboundary,Chinook,Stikine-Late Timing
+1011,2020,1,0,,Northern Transboundary,Chinook,Stikine-Late Timing
+1011,2021,1,0,,Northern Transboundary,Chinook,Stikine-Late Timing
+1013,2015,1,1,1810.0,Northern Transboundary,Coho,Alsek
+1013,2016,1,1,2141.0,Northern Transboundary,Coho,Alsek
+1013,2017,1,1,966.0,Northern Transboundary,Coho,Alsek
+1013,2018,1,1,728.0,Northern Transboundary,Coho,Alsek
+1013,2019,1,1,2180.0,Northern Transboundary,Coho,Alsek
+1013,2020,1,1,3869.0,Northern Transboundary,Coho,Alsek
+1013,2021,1,1,3559.0,Northern Transboundary,Coho,Alsek
+1013,2022,1,1,971.0,Northern Transboundary,Coho,Alsek
+1013,2023,1,1,11667.0,Northern Transboundary,Coho,Alsek
+1013,2024,1,1,8955.0,Northern Transboundary,Coho,Alsek
+1015,2015,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2016,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2017,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2018,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2019,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2020,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2021,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2022,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1015,2023,1,0,,Northern Transboundary,Coho,Taku-Late Timing
+1017,2015,6,1,263.0,Northern Transboundary,Coho,Lower Stikine
+1017,2016,6,1,40.0,Northern Transboundary,Coho,Lower Stikine
+1017,2017,6,1,77.0,Northern Transboundary,Coho,Lower Stikine
+1017,2018,6,1,460.0,Northern Transboundary,Coho,Lower Stikine
+1017,2019,6,1,48.0,Northern Transboundary,Coho,Lower Stikine
+1017,2020,1,1,199.0,Northern Transboundary,Coho,Lower Stikine
+1017,2021,6,1,60.0,Northern Transboundary,Coho,Lower Stikine
+1017,2022,6,1,26.0,Northern Transboundary,Coho,Lower Stikine
+1017,2023,6,1,175.0,Northern Transboundary,Coho,Lower Stikine
+1017,2024,6,1,89.0,Northern Transboundary,Coho,Lower Stikine
+1019,2016,1,0,,Northern Transboundary,Pink,Transboundary Fjords (even)
+1019,2018,1,0,,Northern Transboundary,Pink,Transboundary Fjords (even)
+1019,2020,1,0,,Northern Transboundary,Pink,Transboundary Fjords (even)
+1019,2022,1,0,,Northern Transboundary,Pink,Transboundary Fjords (even)
+1019,2024,1,0,,Northern Transboundary,Pink,Transboundary Fjords (even)
+1020,2015,1,0,,Northern Transboundary,Pink,Transboundary Fjords (odd)
+1020,2017,1,0,,Northern Transboundary,Pink,Transboundary Fjords (odd)
+1020,2019,1,0,,Northern Transboundary,Pink,Transboundary Fjords (odd)
+1020,2021,1,0,,Northern Transboundary,Pink,Transboundary Fjords (odd)
+1020,2023,1,0,,Northern Transboundary,Pink,Transboundary Fjords (odd)
+1021,2016,1,0,,Northern Transboundary,Sockeye,Alsek (river-type)
+1021,2017,1,0,,Northern Transboundary,Sockeye,Alsek (river-type)
+1021,2018,1,0,,Northern Transboundary,Sockeye,Alsek (river-type)
+1023,2015,2,2,114513.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2016,7,2,93863.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2017,7,2,56006.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2018,6,2,80230.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2019,6,2,87638.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2020,6,2,85169.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2021,6,2,141276.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2022,6,2,104138.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2023,6,2,102657.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1023,2024,6,2,133894.0,Northern Transboundary,Sockeye,Northern Transboundary Fjords (river-type)
+1026,2015,1,1,33159.0,Northern Transboundary,Sockeye,Tahltan
+1026,2016,1,1,38458.0,Northern Transboundary,Sockeye,Tahltan
+1026,2017,1,1,19241.0,Northern Transboundary,Sockeye,Tahltan
+1026,2018,1,1,16350.0,Northern Transboundary,Sockeye,Tahltan
+1026,2019,1,1,36787.0,Northern Transboundary,Sockeye,Tahltan
+1026,2020,1,1,11158.0,Northern Transboundary,Sockeye,Tahltan
+1026,2021,1,1,42846.0,Northern Transboundary,Sockeye,Tahltan
+1026,2022,1,1,52772.0,Northern Transboundary,Sockeye,Tahltan
+1026,2023,1,1,37359.0,Northern Transboundary,Sockeye,Tahltan
+1026,2024,1,1,78019.0,Northern Transboundary,Sockeye,Tahltan
+1027,2015,1,1,341.0,Northern Transboundary,Sockeye,Kuthai
+1027,2016,1,1,1476.0,Northern Transboundary,Sockeye,Kuthai
+1027,2017,1,1,299.0,Northern Transboundary,Sockeye,Kuthai
+1027,2018,1,1,13.0,Northern Transboundary,Sockeye,Kuthai
+1027,2019,1,1,605.0,Northern Transboundary,Sockeye,Kuthai
+1027,2020,1,1,4131.0,Northern Transboundary,Sockeye,Kuthai
+1027,2021,1,1,26.0,Northern Transboundary,Sockeye,Kuthai
+1027,2022,1,1,1084.0,Northern Transboundary,Sockeye,Kuthai
+1027,2023,1,1,125.0,Northern Transboundary,Sockeye,Kuthai
+1027,2024,1,1,13375.0,Northern Transboundary,Sockeye,Kuthai
+1028,2015,1,1,13253.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2016,1,1,7594.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2017,1,1,6376.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2018,1,1,8249.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2019,1,1,6140.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2020,1,1,7312.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2021,1,1,18913.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2022,1,1,9846.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2023,1,1,5558.0,Northern Transboundary,Sockeye,Little Trapper
+1028,2024,1,1,11087.0,Northern Transboundary,Sockeye,Little Trapper
+1029,2015,2,1,939.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2016,2,1,31434.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2017,2,1,25697.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2018,2,1,3782.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2019,2,1,2508.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2020,2,1,2506.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2021,2,1,23906.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2022,2,1,20902.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2023,2,1,10566.0,Northern Transboundary,Sockeye,Tatsamenie
+1029,2024,1,1,4704.0,Northern Transboundary,Sockeye,Tatsamenie
+1033,2015,1,1,1683.0,Northern Transboundary,Sockeye,King Salmon
+1033,2016,1,1,6404.0,Northern Transboundary,Sockeye,King Salmon
+1033,2017,1,1,439.0,Northern Transboundary,Sockeye,King Salmon
+1033,2018,1,1,3375.0,Northern Transboundary,Sockeye,King Salmon
+1033,2019,1,1,4294.0,Northern Transboundary,Sockeye,King Salmon
+1033,2020,1,1,17330.0,Northern Transboundary,Sockeye,King Salmon
+1033,2021,1,1,6839.0,Northern Transboundary,Sockeye,King Salmon
+1033,2022,1,1,9385.0,Northern Transboundary,Sockeye,King Salmon
+1033,2023,1,1,2893.0,Northern Transboundary,Sockeye,King Salmon
+1033,2024,1,1,4478.0,Northern Transboundary,Sockeye,King Salmon
+1036,2016,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2017,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2018,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2019,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2020,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2021,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2022,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2023,1,0,,Northern Transboundary,Sockeye,Chutine
+1036,2024,1,0,,Northern Transboundary,Sockeye,Chutine
+1038,2015,1,1,11363.0,Northern Transboundary,Sockeye,Klukshu
+1038,2016,1,1,7391.0,Northern Transboundary,Sockeye,Klukshu
+1038,2017,1,1,3711.0,Northern Transboundary,Sockeye,Klukshu
+1038,2018,1,1,7143.0,Northern Transboundary,Sockeye,Klukshu
+1038,2019,1,1,18749.0,Northern Transboundary,Sockeye,Klukshu
+1038,2020,1,1,4287.0,Northern Transboundary,Sockeye,Klukshu
+1038,2021,1,1,25691.0,Northern Transboundary,Sockeye,Klukshu
+1038,2022,1,1,29629.0,Northern Transboundary,Sockeye,Klukshu
+1038,2023,1,1,13690.0,Northern Transboundary,Sockeye,Klukshu
+1038,2024,1,1,10047.0,Northern Transboundary,Sockeye,Klukshu
+1039,2016,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2017,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2018,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2019,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2020,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2021,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2022,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2023,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1039,2024,1,0,,Northern Transboundary,Sockeye,Nesketahin
+1081,2015,1,1,47.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2016,1,1,13.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2017,1,1,10.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2018,1,1,12.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2019,1,1,23.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2020,1,1,19.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2021,1,1,16.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2022,1,1,39.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2023,1,1,9.0,Northern Transboundary,Steelhead,Taku Summer
+1081,2024,1,1,21.0,Northern Transboundary,Steelhead,Taku Summer
+1201,2015,1,0,,Yukon,Chinook,Big Salmon
+1201,2016,1,0,,Yukon,Chinook,Big Salmon
+1201,2017,1,0,,Yukon,Chinook,Big Salmon
+1201,2018,1,0,,Yukon,Chinook,Big Salmon
+1201,2019,1,0,,Yukon,Chinook,Big Salmon
+1201,2020,1,0,,Yukon,Chinook,Big Salmon
+1201,2021,1,0,,Yukon,Chinook,Big Salmon
+1201,2023,1,0,,Yukon,Chinook,Big Salmon
+1201,2024,1,0,,Yukon,Chinook,Big Salmon
+1203,2015,1,0,,Yukon,Chinook,Pelly
+1203,2016,2,0,,Yukon,Chinook,Pelly
+1203,2017,1,0,,Yukon,Chinook,Pelly
+1203,2018,2,0,,Yukon,Chinook,Pelly
+1203,2019,1,0,,Yukon,Chinook,Pelly
+1203,2020,1,0,,Yukon,Chinook,Pelly
+1203,2021,1,0,,Yukon,Chinook,Pelly
+1203,2023,1,0,,Yukon,Chinook,Pelly
+1203,2024,1,0,,Yukon,Chinook,Pelly
+1204,2021,1,0,,Yukon,Chinook,Middle Yukon
+1204,2022,1,0,,Yukon,Chinook,Middle Yukon
+1204,2023,1,0,,Yukon,Chinook,Middle Yukon
+1204,2024,1,0,,Yukon,Chinook,Middle Yukon
+1207,2020,1,0,,Yukon,Chinook,Northern Yukon
+1207,2021,1,0,,Yukon,Chinook,Northern Yukon
+1207,2022,1,0,,Yukon,Chinook,Northern Yukon
+1207,2023,1,0,,Yukon,Chinook,Northern Yukon
+1207,2024,1,0,,Yukon,Chinook,Northern Yukon
+1209,2015,1,0,,Yukon,Chinook,Porcupine
+1209,2016,1,0,,Yukon,Chinook,Porcupine
+1209,2017,1,0,,Yukon,Chinook,Porcupine
+1209,2018,1,0,,Yukon,Chinook,Porcupine
+1209,2019,1,0,,Yukon,Chinook,Porcupine
+1209,2021,1,0,,Yukon,Chinook,Porcupine
+1209,2022,1,0,,Yukon,Chinook,Porcupine
+1209,2023,1,0,,Yukon,Chinook,Porcupine
+1209,2024,1,0,,Yukon,Chinook,Porcupine
+1211,2015,2,2,1608.0,Yukon,Chinook,Upper Yukon
+1211,2016,2,2,1577.0,Yukon,Chinook,Upper Yukon
+1211,2017,3,2,1421.0,Yukon,Chinook,Upper Yukon
+1211,2018,3,2,714.0,Yukon,Chinook,Upper Yukon
+1211,2019,2,2,287.0,Yukon,Chinook,Upper Yukon
+1211,2020,3,2,222.0,Yukon,Chinook,Upper Yukon
+1211,2021,3,2,293.0,Yukon,Chinook,Upper Yukon
+1211,2022,3,2,166.0,Yukon,Chinook,Upper Yukon
+1211,2023,3,2,180.0,Yukon,Chinook,Upper Yukon
+1211,2024,3,2,430.0,Yukon,Chinook,Upper Yukon
+1212,2015,3,0,,Yukon,Chinook,Teslin
+1212,2016,2,0,,Yukon,Chinook,Teslin
+1212,2019,2,0,,Yukon,Chinook,Teslin
+1212,2020,3,0,,Yukon,Chinook,Teslin
+1212,2021,3,0,,Yukon,Chinook,Teslin
+1212,2022,3,0,,Yukon,Chinook,Teslin
+1212,2023,3,0,,Yukon,Chinook,Teslin
+1212,2024,3,0,,Yukon,Chinook,Teslin
+1213,2020,1,0,,Yukon,Chum,Middle Yukon
+1213,2021,1,0,,Yukon,Chum,Middle Yukon
+1213,2022,1,0,,Yukon,Chum,Middle Yukon
+1213,2023,1,0,,Yukon,Chum,Middle Yukon
+1213,2024,1,0,,Yukon,Chum,Middle Yukon
+1216,2017,1,0,,Yukon,Chum,Donjek Kluane
+1216,2018,1,0,,Yukon,Chum,Donjek Kluane
+1216,2019,1,0,,Yukon,Chum,Donjek Kluane
+1216,2020,1,0,,Yukon,Chum,Donjek Kluane
+1216,2021,1,0,,Yukon,Chum,Donjek Kluane
+1216,2022,1,0,,Yukon,Chum,Donjek Kluane
+1216,2023,1,0,,Yukon,Chum,Donjek Kluane
+1216,2024,1,0,,Yukon,Chum,Donjek Kluane
+1217,2015,2,1,8351.0,Yukon,Chum,Porcupine
+1217,2016,2,1,29397.0,Yukon,Chum,Porcupine
+1217,2017,2,1,48524.0,Yukon,Chum,Porcupine
+1217,2018,1,1,10151.0,Yukon,Chum,Porcupine
+1217,2019,2,1,18171.0,Yukon,Chum,Porcupine
+1217,2020,1,1,4795.0,Yukon,Chum,Porcupine
+1217,2021,2,1,2413.0,Yukon,Chum,Porcupine
+1217,2022,2,1,2934.0,Yukon,Chum,Porcupine
+1217,2023,2,1,11528.0,Yukon,Chum,Porcupine
+1217,2024,2,1,5933.0,Yukon,Chum,Porcupine
+1380,2015,1,1,91.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2016,1,1,30.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2017,1,1,20.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2018,1,1,9.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2019,1,1,57.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2020,1,1,29.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2021,1,1,10.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2022,1,1,10.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2023,1,1,14.0,Columbia,Steelhead,Mid Columbia Summer
+1380,2024,1,1,11.0,Columbia,Steelhead,Mid Columbia Summer

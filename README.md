@@ -73,7 +73,33 @@ Open [code/new_data.ipynb](code/new_data.ipynb) and select a Python kernel with 
 
 Data paths are resolved from the repository's `data` folder. The spawner CSV is read directly from `dataset2_spawner_surveys.zip`, so no extraction or personal file-path substitutions are needed. The optional station DBF conversion is shown as documentation because the converted CSV is already included.
 
-The export cells write `data/spawners_clean.csv` and overwrite `data/region_stats.csv`. This notebook preserves the existing processing and regional summaries; it does not yet implement the proposed conservation-unit analysis.
+The original export cells write `data/spawners_clean.csv` and overwrite `data/region_stats.csv`. The final section builds conservation-unit summaries using [code/cu_summaries.py](code/cu_summaries.py), without changing those earlier regional summaries.
+
+### Conservation-unit summaries
+
+The selected window is **2015–2024**. Observed survey coverage falls from 1,449 stream observations in 2024 to 27 in 2025 and 6 in 2026, so those sparsely represented years are excluded. This is a coverage-based choice, not proof that earlier surveys are complete.
+
+All 413 conservation units in the cleaned source are retained. A fixed panel contains only streams with an observed count in every selected year. Annual panel counts sum those fixed streams; they are **observed-count indices, not estimates of total conservation-unit abundance**. Changing survey methods, quality, and within-stream observation effort can still affect these indices.
+
+The final notebook cells export:
+
+- [reports/survey_coverage_by_year.csv](reports/survey_coverage_by_year.csv): full-history annual observation, stream, and CU counts, with the selected window flagged.
+- [reports/cu_annual_observations_2015_2024.csv](reports/cu_annual_observations_2015_2024.csv): observed years for each CU, stream coverage, and fixed-panel annual counts where available. Missing years are not imputed.
+- [reports/cu_summaries_2015_2024.csv](reports/cu_summaries_2015_2024.csv): one row per CU, window coverage, number/fraction of streams in the panel, mean/median annual panel count, sample standard deviation, coefficient of variation (SD/mean), trends, and survey-quality composition.
+
+`summary_status` distinguishes a complete stream panel, no complete panel, and no observations in the window. Units without a complete panel retain coverage and quality information but have blank abundance statistics. Zero observed counts are retained; CV and relative trends are undefined when the mean is zero.
+
+For this dataset, 308 CUs have observations in the selected window: 124 have complete panels (481 streams), and 184 do not. Another 105 CUs have no observations in the window. Eligible panels represent Chinook (33 CUs), Chum (15), Coho (21), Sockeye (46), and Steelhead (9). No Pink CU meets the all-ten-years rule, so no pink abundance/trend metrics are produced under this selection. The eligible subset must not be presented as representative of all CUs or all species.
+
+Linear trends are observed counts per calendar year. `trend_pct_of_mean_per_year` is the slope divided by mean annual count, times 100, not a compounded annual growth rate. Pink-salmon slopes are calculated separately for odd/even years, with the pooled slope left blank; their overall SD/CV still includes differences between cycles. Trends are descriptive, without significance or causality claims.
+
+Quality counts/fractions are provided separately for all window observations (`all_quality_*`) and fixed-panel observations (`panel_quality_*`). Categories are High, Medium-High, Medium, Medium-Low, Low, Unknown, and Missing. Missing-value codes are treated as Missing, not Unknown; fractions are blank when there are no observations.
+
+Run focused summary tests from the repository root with:
+
+```powershell
+python -m unittest discover -s code -p test_cu_summaries.py
+```
 
 data_prep.ipynb was created and used first in order to process and produce our clean salmon/temp dataframe (water_salmon_clean.csv)
 
