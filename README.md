@@ -38,9 +38,9 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Stream Temperatures Data
 
-- **Title:** se_streamtemp_stations.csv
+- **Title:** stream_temp_manual.csv
 - **Source:**  Pacific Salmon Foundation's Salmon Data Library via the Pacific Salmon Explorer
-- **Description:** Brief overview of the dataset features, size, and format
+- **Description:** Max stream temperature collected manually from PSE and labelled by region.
 - **License:** "Pacific Salmon Foundation" (retrieved Nov 2026)
 - **Link:** https://salmonexplorer.ca/explore/data/stream-temperature/all-regions/all-species/all-cus/
 
